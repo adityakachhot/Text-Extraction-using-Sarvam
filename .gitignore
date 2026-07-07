@@ -18,6 +18,7 @@ ENV/
 # Logs and databases
 logs/
 *.log
+sarvam_bill_benchmark/json_to_excel.log
 
 # OS generated files
 .DS_Store
@@ -28,5 +29,10 @@ logs/
 ehthumbs.db
 Thumbs.db
 
-# Output files that are locally generated
+# Project folders to exclude from git
+sarvam_bill_benchmark/bills/
+sarvam_bill_benchmark/outputs/
+sarvam_bill_benchmark/tests/
+
+# Excel output sheets
 sarvam_bill_benchmark/test.xlsx
