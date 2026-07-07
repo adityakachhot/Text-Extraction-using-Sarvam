@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "330241777081",
+  "total_bill_amount": 3040.0,
+  "bill_amount": 3040.0,
+  "arrears": 18.56,
+  "overdue_months_count": 0,
+  "name": "SHRI SHIVAJI DIGAMBAR UMBARKAR",
+  "fathers_name": null,
+  "address": "57 OM NAM SHIVAY NAGAR KUMTHA ROAD SOLAPUR 413004",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "413004",
+  "unit_consumed": 257.0,
+  "rate_per_unit": 11.84,
+  "bill_date": "2026-01-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

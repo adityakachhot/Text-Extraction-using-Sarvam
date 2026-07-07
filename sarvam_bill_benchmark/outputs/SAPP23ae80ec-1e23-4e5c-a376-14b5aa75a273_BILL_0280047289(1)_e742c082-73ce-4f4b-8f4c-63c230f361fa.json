@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "0280047289",
+  "total_bill_amount": 513.0,
+  "bill_amount": 510.15,
+  "arrears": 2.86,
+  "overdue_months_count": 0,
+  "name": "Jyoti Prakash",
+  "fathers_name": "Bind Basini Prasad",
+  "address": "N9/47-A-1-4 Badi Patiya Bazardiha 221005 VARANASI UP 221005 IND",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "221005",
+  "unit_consumed": 13.97,
+  "rate_per_unit": 36.31,
+  "bill_date": "2025-12-04",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

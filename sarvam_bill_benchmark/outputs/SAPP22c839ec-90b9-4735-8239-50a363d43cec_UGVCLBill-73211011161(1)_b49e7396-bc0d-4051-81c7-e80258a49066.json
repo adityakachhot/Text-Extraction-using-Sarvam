@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "73211011161",
+  "total_bill_amount": 5322.87,
+  "bill_amount": 5322.86,
+  "arrears": 0.01,
+  "overdue_months_count": 1,
+  "name": "ROHITJI LAKHAJI THAKOR",
+  "fathers_name": null,
+  "address": "565-THAKOR VAS, RAJODA TA-BAVLA, VILL:Rajoda, TAL:Bavla, DISTRICT:Ahmadabad",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 790.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-05-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

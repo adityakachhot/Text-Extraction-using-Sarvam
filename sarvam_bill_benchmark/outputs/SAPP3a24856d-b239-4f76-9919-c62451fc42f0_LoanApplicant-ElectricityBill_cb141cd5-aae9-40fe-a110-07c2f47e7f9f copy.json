@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "T G N P D C L",
+  "consumer_number": "8712484776",
+  "total_bill_amount": 1347.0,
+  "bill_amount": 1347.0,
+  "arrears": 500.76,
+  "overdue_months_count": 1,
+  "name": "KOTESHWAR DOLI",
+  "fathers_name": null,
+  "address": "6-3-149 BRAHMANWADA",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 214.0,
+  "rate_per_unit": 6.29,
+  "bill_date": "2026-02-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

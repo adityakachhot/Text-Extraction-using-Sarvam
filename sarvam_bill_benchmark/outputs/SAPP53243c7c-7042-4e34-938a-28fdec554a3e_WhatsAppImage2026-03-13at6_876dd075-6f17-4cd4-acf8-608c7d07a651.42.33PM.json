@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DISCOM",
+  "consumer_number": "401107462220",
+  "total_bill_amount": 904.0,
+  "bill_amount": 823.99,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "PREM NATH",
+  "fathers_name": "S/O KARAM CHAND",
+  "address": "S/O KARAM CHAND, JA",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 85.0,
+  "rate_per_unit": 3.65,
+  "bill_date": "2025-12-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

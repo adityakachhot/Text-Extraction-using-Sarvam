@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "100114993",
+  "total_bill_amount": 4873.09,
+  "bill_amount": 4870.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "AMIT VINODCHANDRA BAROT",
+  "fathers_name": null,
+  "address": "BLOCK C - 303\nOMSHANTI RESIDENCY\nOPP. SEVEN DAY SCHOOL,NICOLAHMEDABAD",
+  "sanction_load": 2000.0,
+  "sanction_load_unit": "kW",
+  "pincode": "384239",
+  "unit_consumed": 521.0,
+  "rate_per_unit": 9.35,
+  "bill_date": "2025-07-29",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

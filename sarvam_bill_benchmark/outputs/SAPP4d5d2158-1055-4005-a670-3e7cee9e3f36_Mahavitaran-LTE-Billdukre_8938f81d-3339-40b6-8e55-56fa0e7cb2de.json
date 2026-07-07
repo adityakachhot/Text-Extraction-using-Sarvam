@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "539970007578",
+  "total_bill_amount": 1200.0,
+  "bill_amount": 852.19,
+  "arrears": 343.96,
+  "overdue_months_count": 0,
+  "name": "SUDHAKAR RAMESHWAR DUKRE",
+  "fathers_name": null,
+  "address": "1169 Kanergaon naka HINGOLI HINGOLI Kanhergaon nak a 431513",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "431513",
+  "unit_consumed": 2381.0,
+  "rate_per_unit": 0.3576,
+  "bill_date": "2026-02-04",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

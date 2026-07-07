@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "24005200176",
+  "total_bill_amount": 696.81,
+  "bill_amount": 696.81,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KHANT AMRABHAI MAGABHAI",
+  "fathers_name": null,
+  "address": "AT:KAVERIYA TA:MALPUR DIST:SK VILL:Kaveriha TAL:Malpur DISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 74.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

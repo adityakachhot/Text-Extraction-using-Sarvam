@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "15228108580",
+  "total_bill_amount": 2911.54,
+  "bill_amount": 2911.54,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "DAHR ARVINDBHAI RAMANBHAI",
+  "fathers_name": null,
+  "address": "BRD FATEHUNJ E-303 KRISHNA PRIME OPP VIHAL DHAM SOCIETY IP-13",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "290002",
+  "unit_consumed": 415.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

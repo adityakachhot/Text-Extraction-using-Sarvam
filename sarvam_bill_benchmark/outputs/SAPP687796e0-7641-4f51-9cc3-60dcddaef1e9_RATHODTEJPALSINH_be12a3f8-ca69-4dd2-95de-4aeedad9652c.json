@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "21908101911",
+  "total_bill_amount": 1149.52,
+  "bill_amount": 1156.79,
+  "arrears": -7.27,
+  "overdue_months_count": 1,
+  "name": "RATHOD TEJPALSINH RANUSINH",
+  "fathers_name": null,
+  "address": "HOUSE NO. 294 RATHOD VAS, MO. 7874322558, VILL:Soja, TAL:Vijapur, DISTRICT:Mahesana",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 199.0,
+  "rate_per_unit": 1.19,
+  "bill_date": "2025-12-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

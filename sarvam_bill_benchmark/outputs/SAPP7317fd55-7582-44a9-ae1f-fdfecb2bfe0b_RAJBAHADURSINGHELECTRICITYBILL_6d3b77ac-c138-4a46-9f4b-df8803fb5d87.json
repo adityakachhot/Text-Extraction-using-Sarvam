@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "4279300000",
+  "total_bill_amount": 8914.0,
+  "bill_amount": 4205.44,
+  "arrears": 4708.94,
+  "overdue_months_count": 0,
+  "name": "Mr. RAJ BAHADUR SINGH",
+  "fathers_name": "R.P.SINGH",
+  "address": "538D/019B PATAURA GANJ SITAPUR ROAD LKO. LUCKNOW UP IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 538.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

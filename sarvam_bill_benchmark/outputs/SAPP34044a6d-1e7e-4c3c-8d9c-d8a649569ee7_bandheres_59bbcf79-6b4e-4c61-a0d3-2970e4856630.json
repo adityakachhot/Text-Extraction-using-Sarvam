@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "611220098329",
+  "total_bill_amount": 1040.0,
+  "bill_amount": 1040.0,
+  "arrears": 7.75,
+  "overdue_months_count": 0,
+  "name": "SHRI MANIK SHRIPATI BHANDE",
+  "fathers_name": null,
+  "address": "AT HARANGUL(KD) TQ LATUR DIST LATUR AT HARANGUL(KD 412513",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "412513",
+  "unit_consumed": 122.0,
+  "rate_per_unit": 8.52,
+  "bill_date": "2025-12-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

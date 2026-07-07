@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "100122446",
+  "total_bill_amount": 1950.0,
+  "bill_amount": 1950.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAJKUVAR HARIMANGAL RAJPUT",
+  "fathers_name": null,
+  "address": "OM SHANTI RESIDENCY BLOCK-E-202 NR MANSI BUNGLOWS NICOL TO RING ROAD NEW NICOL AHMEDABAD 382340",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": "382340",
+  "unit_consumed": 217.0,
+  "rate_per_unit": 782.15,
+  "bill_date": "2026-01-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

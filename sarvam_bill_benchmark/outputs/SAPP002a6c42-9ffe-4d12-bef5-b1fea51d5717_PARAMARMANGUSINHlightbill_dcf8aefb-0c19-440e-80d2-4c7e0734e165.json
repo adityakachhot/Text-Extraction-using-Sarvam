@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23318004626",
+  "total_bill_amount": 676.61,
+  "bill_amount": 676.6,
+  "arrears": 0.01,
+  "overdue_months_count": 0,
+  "name": "PARAMAR MANGUSINH",
+  "fathers_name": "FATESINH",
+  "address": "AT & PO:-DEROL TA : HIMATNAGAR (SK) VILL:Derol",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "384001",
+  "unit_consumed": 117.0,
+  "rate_per_unit": 5.7,
+  "bill_date": "2025-12-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

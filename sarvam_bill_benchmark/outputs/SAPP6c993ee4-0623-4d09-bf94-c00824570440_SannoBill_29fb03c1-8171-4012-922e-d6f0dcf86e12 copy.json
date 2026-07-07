@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "8010924203",
+  "total_bill_amount": 636.0,
+  "bill_amount": 530.91,
+  "arrears": 105.46,
+  "overdue_months_count": 1,
+  "name": "SANNO VEVI VISHAMMBHAR",
+  "fathers_name": "NR HANS WAHINI",
+  "address": "PURAN NAGARUNNAO3661 UNNAO UP IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "271101",
+  "unit_consumed": 43.0,
+  "rate_per_unit": 12.35,
+  "bill_date": "2025-12-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "6220425220",
+  "total_bill_amount": 3237.0,
+  "bill_amount": 2364.9,
+  "arrears": 871.68,
+  "overdue_months_count": 0,
+  "name": "SUDHA RAI",
+  "fathers_name": "AJAY KUMAR RAI",
+  "address": "0 CHANDARSHEKHAR NAGAR\nCOLONY RAUZA GHAZIPUR\nGHAZIPUR UP 233001 IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": "233001",
+  "unit_consumed": 325.0,
+  "rate_per_unit": 6.85,
+  "bill_date": "2025-12-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

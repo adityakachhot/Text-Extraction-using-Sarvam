@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": null,
+  "total_bill_amount": 15480.0,
+  "bill_amount": 15377.34,
+  "arrears": 103.0,
+  "overdue_months_count": 0,
+  "name": "VIPIN MANI TRIPATHI",
+  "fathers_name": "S/O RAM PRASANG",
+  "address": "EUDD TOWNHALL,GORAKHPUR (DIV4357111) PUNJABI COLONY PAIDAL GANJ GKP GORAKHPUR UP IND xxxxxxx2949",
+  "sanction_load": 10.0,
+  "sanction_load_unit": "kW",
+  "pincode": "272501",
+  "unit_consumed": 2171.53,
+  "rate_per_unit": 7.08,
+  "bill_date": "2026-02-04",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

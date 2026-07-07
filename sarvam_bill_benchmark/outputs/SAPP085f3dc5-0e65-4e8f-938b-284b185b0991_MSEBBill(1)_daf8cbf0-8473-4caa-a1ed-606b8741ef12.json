@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "049061686133",
+  "total_bill_amount": 3310.0,
+  "bill_amount": 3310.0,
+  "arrears": 25.66,
+  "overdue_months_count": 0,
+  "name": "RAMCHANDRA YADAVRAO SHINDE",
+  "fathers_name": null,
+  "address": "RH NO 6 S NO 205/A P NO 26 SHIRSATH SANCUL SHRAMI NASHIK NASHIK Nashik (M Corp.) 422012",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "422012",
+  "unit_consumed": 265.0,
+  "rate_per_unit": 12.5,
+  "bill_date": "2026-02-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "7586997000",
+  "total_bill_amount": 1677.0,
+  "bill_amount": 285.06,
+  "arrears": 1360.55,
+  "overdue_months_count": 0,
+  "name": "YASHVANT VISHWAKARMA",
+  "fathers_name": "SHRIRAM VISHWKARMA",
+  "address": "PAKRI PAKADI BHARAT KHAND MAHA RAJGANJ UP IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 35.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "27115004919",
+  "total_bill_amount": null,
+  "bill_amount": null,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "GOTABHAI DAHYABHAI CHAUHAAN",
+  "fathers_name": null,
+  "address": "AT.SAHIJ TA.DHOLKA.\nSAHIJ\nDHOLKA\nAHMEDABAD",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

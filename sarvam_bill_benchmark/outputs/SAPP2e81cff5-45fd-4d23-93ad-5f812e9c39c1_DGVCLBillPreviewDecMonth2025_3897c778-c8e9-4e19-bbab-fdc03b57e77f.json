@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "03501011717",
+  "total_bill_amount": 3680.4,
+  "bill_amount": 1788.31,
+  "arrears": 1892.09,
+  "overdue_months_count": 1,
+  "name": "MAHENDRA VASUDEV MISHRA",
+  "fathers_name": null,
+  "address": "DIVINE VILLA HOUSE NO 122, Root Code 1/02/03/001, VILL: Hathuran, TAL: Mangrol, DISTRICT: Surat, Sub-division Office KOSAMBA",
+  "sanction_load": 562.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "395006",
+  "unit_consumed": 281.0,
+  "rate_per_unit": 6.31,
+  "bill_date": "2025-11-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

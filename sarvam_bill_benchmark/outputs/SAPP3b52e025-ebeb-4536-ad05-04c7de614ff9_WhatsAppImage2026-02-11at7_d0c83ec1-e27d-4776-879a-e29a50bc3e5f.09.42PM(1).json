@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "120136023780",
+  "total_bill_amount": 6658.5,
+  "bill_amount": 6658.5,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SUNIL KUMAR",
+  "fathers_name": "S/O SHANKAR LAL",
+  "address": "WARD NO 41",
+  "sanction_load": 7.0,
+  "sanction_load_unit": "KW",
+  "pincode": "305001",
+  "unit_consumed": 801.0,
+  "rate_per_unit": 8.31,
+  "bill_date": "2026-01-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

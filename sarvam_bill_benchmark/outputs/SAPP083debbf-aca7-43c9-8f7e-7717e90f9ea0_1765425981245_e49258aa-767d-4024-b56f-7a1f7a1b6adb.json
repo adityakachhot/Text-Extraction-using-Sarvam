@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "551110056954",
+  "total_bill_amount": 7370.0,
+  "bill_amount": 7370.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "NILESH RADHESHYAM TAMTE",
+  "fathers_name": null,
+  "address": "Flat No. 1; Samarth Residency, Saibaba Kaman; Near Sababa Kaman, Nanded Waghala (M Corp.)",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "431603",
+  "unit_consumed": 471.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2025-12-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

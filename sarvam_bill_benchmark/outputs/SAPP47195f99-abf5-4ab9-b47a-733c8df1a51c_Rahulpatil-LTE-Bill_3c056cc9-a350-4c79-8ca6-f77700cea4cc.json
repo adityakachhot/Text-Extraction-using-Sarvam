@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "119870060294",
+  "total_bill_amount": 1050.0,
+  "bill_amount": 1540.0,
+  "arrears": -1007.32,
+  "overdue_months_count": 0,
+  "name": "Rahul Vijay Patil",
+  "fathers_name": null,
+  "address": "Ghar No 751 Bust Stop Khedgaon CHALISGAON JALGAON Khedgaon 424107",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": "424107",
+  "unit_consumed": 0.0,
+  "rate_per_unit": 520.0,
+  "bill_date": "2026-02-23",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "675918513850",
+  "total_bill_amount": 3979.0,
+  "bill_amount": 3978.97,
+  "arrears": -0.31,
+  "overdue_months_count": 0,
+  "name": "DURGA PRASAD",
+  "fathers_name": "CHHOTE LAL",
+  "address": "VISHWANATHGANJ ALAWAPURRAE\nBARELI RAEBAREILLRY UP IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 995.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-04",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

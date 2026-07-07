@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "6505006000",
+  "total_bill_amount": 1701.0,
+  "bill_amount": 1700.96,
+  "arrears": 3823.89,
+  "overdue_months_count": 1,
+  "name": "RAJESH KU NISHAD",
+  "fathers_name": "NISHAD",
+  "address": "SBACCHI LAL NISHADMAHEWA PASCHIMNAINI NAINIALLAHABAD ALLAHABAD UP IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 218.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-22",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

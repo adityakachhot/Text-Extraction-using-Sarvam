@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "410022002591",
+  "total_bill_amount": 3360.0,
+  "bill_amount": 3360.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHRI ROHIT SHUBHASHRAO TEKADE",
+  "fathers_name": null,
+  "address": "PLOT NO 132 SAI NAGAR NETAJI NAGPUR 440008",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "440008",
+  "unit_consumed": 274.0,
+  "rate_per_unit": 12.26,
+  "bill_date": "2026-02-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

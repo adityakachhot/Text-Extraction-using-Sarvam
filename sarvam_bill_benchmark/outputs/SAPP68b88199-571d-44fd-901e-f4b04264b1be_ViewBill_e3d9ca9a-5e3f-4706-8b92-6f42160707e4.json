@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "374802",
+  "total_bill_amount": 11970.0,
+  "bill_amount": 11970.0,
+  "arrears": 6.17,
+  "overdue_months_count": 0,
+  "name": "ATMARAM VAGAJI PARMAR",
+  "fathers_name": null,
+  "address": "14 B/3,F.F., KARTIK SOC, O/S SHAHPUR GATE, AHMEDABAD 1",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380004",
+  "unit_consumed": 1201.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-08-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

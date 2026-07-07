@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "21701214318",
+  "total_bill_amount": 8025.37,
+  "bill_amount": 8025.37,
+  "arrears": -0.26,
+  "overdue_months_count": 1,
+  "name": "KHOKHAR MAHAMMADZUBERKHAN JIVANKHAN",
+  "fathers_name": null,
+  "address": "E12 ASHIYANA SOCIETY AT VIJAPUR",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "307001",
+  "unit_consumed": 911.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-08-30",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

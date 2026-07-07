@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "MUMBAI",
+  "consumer_number": null,
+  "total_bill_amount": 3483.0,
+  "bill_amount": 5871.38,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAM UJAGIR SHRMA",
+  "fathers_name": null,
+  "address": "SIKANDAR PUR, UP , IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "MW",
+  "pincode": null,
+  "unit_consumed": 1059.0,
+  "rate_per_unit": 7.43,
+  "bill_date": "2025-08-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

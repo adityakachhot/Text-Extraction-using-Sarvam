@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "6372232000",
+  "total_bill_amount": 7883.0,
+  "bill_amount": 2455.92,
+  "arrears": 5426.83,
+  "overdue_months_count": 0,
+  "name": "BABALI DEVI",
+  "fathers_name": "SHYAM PAL SINGH",
+  "address": "BALDEV NAGAR LAKHIMPURKHERI\nLAKHIMPUR UP IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "142101",
+  "unit_consumed": 288.0,
+  "rate_per_unit": 6.85,
+  "bill_date": "2025-12-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

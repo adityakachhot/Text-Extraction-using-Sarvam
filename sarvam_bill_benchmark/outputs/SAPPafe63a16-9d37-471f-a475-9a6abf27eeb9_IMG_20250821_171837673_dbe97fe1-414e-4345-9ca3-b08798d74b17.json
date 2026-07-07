@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "મધ્ય ગુજરાત વીજ કંપની લીમીટેડ",
+  "consumer_number": "01624000088",
+  "total_bill_amount": 1231.61,
+  "bill_amount": 1231.61,
+  "arrears": 0.01,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": "સબડીઓઝેશનનું નામ: UMRETH(R) રજી. ઓફિસ સરદાર પટેલ વિદ્યુત ભવન, રેસકોર્ષ, વડોદરા-390007",
+  "sanction_load": 0.0,
+  "sanction_load_unit": null,
+  "pincode": "390007",
+  "unit_consumed": 222.0,
+  "rate_per_unit": 5.55,
+  "bill_date": "2025-08-21",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

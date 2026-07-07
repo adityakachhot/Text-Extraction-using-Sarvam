@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170101303872",
+  "total_bill_amount": 2950.0,
+  "bill_amount": 2950.0,
+  "arrears": 103.69,
+  "overdue_months_count": 0,
+  "name": "SMT AGHAV SHARDA CHANDRAKANT",
+  "fathers_name": null,
+  "address": "AT CHIKHALI KUDALWADI TAL HAVELI DIST PUNE 410501",
+  "sanction_load": 0.3,
+  "sanction_load_unit": "KW",
+  "pincode": "410501",
+  "unit_consumed": 242.0,
+  "rate_per_unit": 11.1,
+  "bill_date": "2026-01-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "28034004146",
+  "total_bill_amount": 2501.13,
+  "bill_amount": 2540.31,
+  "arrears": -39.18,
+  "overdue_months_count": 1,
+  "name": "Patel Sumitraben Kalpeshkumar",
+  "fathers_name": null,
+  "address": "TA :- GANDHINAGAR\nVILL:Por\nTAL:Gandhinagar\nDISTRICT:Gandhinagar",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "HP",
+  "pincode": "384001",
+  "unit_consumed": 408.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "1504992000",
+  "total_bill_amount": 10201.0,
+  "bill_amount": 4905.2,
+  "arrears": 5227.52,
+  "overdue_months_count": 0,
+  "name": "SINGHASANI",
+  "fathers_name": null,
+  "address": "GALIBPUR MAU MAUNATH BHANJAN UP IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 691.56,
+  "rate_per_unit": null,
+  "bill_date": "2025-08-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

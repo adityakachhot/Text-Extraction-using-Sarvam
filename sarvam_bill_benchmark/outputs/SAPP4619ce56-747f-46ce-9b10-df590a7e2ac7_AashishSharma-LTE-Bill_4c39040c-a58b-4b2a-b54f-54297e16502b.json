@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "110014892362",
+  "total_bill_amount": 860.0,
+  "bill_amount": 860.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Ashish Prem prakash Sharma",
+  "fathers_name": null,
+  "address": "Get number 63/3 plot number 8 Patrakar colony JALG AON JALGAON Jalgaon (M Corp.) 425001",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "425001",
+  "unit_consumed": 112.0,
+  "rate_per_unit": 0.2,
+  "bill_date": "2026-02-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

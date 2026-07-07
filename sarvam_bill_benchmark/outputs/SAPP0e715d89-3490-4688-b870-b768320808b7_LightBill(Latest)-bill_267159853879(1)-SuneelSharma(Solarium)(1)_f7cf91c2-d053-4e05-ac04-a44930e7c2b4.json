@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "2670692743",
+  "total_bill_amount": 7398.0,
+  "bill_amount": 3141.12,
+  "arrears": 4256.99,
+  "overdue_months_count": 0,
+  "name": "ANURAG MISHRA",
+  "fathers_name": "LATE LALTA PRASAD MISHRA",
+  "address": "HOUSE AT PLOT NO-80 SHEKHPUR KASAILA SANJAY GANDHI PURAM FZD ROAD INDIRA NAGAR LKO.Lucknow UP 226016 IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226016",
+  "unit_consumed": 395.0,
+  "rate_per_unit": 7.95,
+  "bill_date": "2025-06-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

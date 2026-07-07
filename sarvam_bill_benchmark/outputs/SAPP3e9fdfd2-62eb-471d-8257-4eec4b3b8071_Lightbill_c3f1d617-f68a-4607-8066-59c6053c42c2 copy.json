@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "62303050596",
+  "total_bill_amount": 510.43,
+  "bill_amount": 510.43,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "GOHIL SABHAIBEN LAKHU",
+  "fathers_name": null,
+  "address": "69 SATYAM SOSAYTI LS NO.1/2 MO.9909720456 VILL:Galpadar TAL:GANDHIDHAM DISTRICT: KACHCHH",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kVA",
+  "pincode": null,
+  "unit_consumed": 85.0,
+  "rate_per_unit": 5.99,
+  "bill_date": "2025-12-29",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

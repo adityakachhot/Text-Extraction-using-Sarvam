@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "17090030",
+  "total_bill_amount": 690.0,
+  "bill_amount": 690.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAMA BHIL",
+  "fathers_name": null,
+  "address": "BHERA JI BHIL DHOL K",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 242.0,
+  "rate_per_unit": 5.5,
+  "bill_date": "2025-09-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

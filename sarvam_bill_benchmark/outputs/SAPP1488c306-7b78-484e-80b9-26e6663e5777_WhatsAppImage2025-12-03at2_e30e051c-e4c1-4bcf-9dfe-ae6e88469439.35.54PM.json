@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "15120019",
+  "total_bill_amount": 4235.0,
+  "bill_amount": 4235.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Sarla Upadhyay",
+  "fathers_name": "W/O Rajesh Upadhyay",
+  "address": "W/O.RAJESH UPADHYAYA",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 471.0,
+  "rate_per_unit": 9.05,
+  "bill_date": "2025-11-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

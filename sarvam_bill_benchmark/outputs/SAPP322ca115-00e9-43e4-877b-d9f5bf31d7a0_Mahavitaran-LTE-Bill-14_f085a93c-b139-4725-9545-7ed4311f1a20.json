@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170360875281",
+  "total_bill_amount": 2850.0,
+  "bill_amount": 2850.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "PRAVIN MADHUKAR DAHIWAL",
+  "fathers_name": null,
+  "address": "S.NO. 23/1, ANDN VIHAR, NEAR JOSHI BUNGLOW, PUNE C ITY PUNE (CB) 411051",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": "411051",
+  "unit_consumed": 4677.0,
+  "rate_per_unit": 0.61,
+  "bill_date": "2025-09-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

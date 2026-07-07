@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "પશ્ચિમ ગુજરાત વીજ કંપની લિમિટેડ",
+  "consumer_number": "82803172488",
+  "total_bill_amount": 4940.0,
+  "bill_amount": 4940.0,
+  "arrears": 1169.0,
+  "overdue_months_count": 1,
+  "name": "DAVERA HANSHABEN GANGAJ",
+  "fathers_name": null,
+  "address": "RAJKOTHARIYA ROAD,\nDAVERA HANSHABEN GANGAJ,\nGANDHI SD. VIVEKA. MN.R\nOPP.MITHIMA BHAVAN JANG",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 672.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-08-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

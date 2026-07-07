@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "676912",
+  "total_bill_amount": 2340.0,
+  "bill_amount": 2340.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "DESAIBHAI DHULABHAI PARMAR",
+  "fathers_name": null,
+  "address": "A/5 JANHEET CORPORATION\\nNR.GAURI CINEMA\\nNR.RAJENDRA PARK\\nB/S KAMLESH SOC.ODHAV\\nAHMEDABAD",
+  "sanction_load": 0.48,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 260.0,
+  "rate_per_unit": 9.0,
+  "bill_date": "2026-03-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

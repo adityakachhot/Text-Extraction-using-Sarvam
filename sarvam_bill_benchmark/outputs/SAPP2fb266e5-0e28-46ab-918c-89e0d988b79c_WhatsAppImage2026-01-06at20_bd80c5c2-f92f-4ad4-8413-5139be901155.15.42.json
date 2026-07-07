@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "181122304552",
+  "total_bill_amount": null,
+  "bill_amount": null,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "SHRI DILIP MANIK THITE",
+  "fathers_name": null,
+  "address": "HNO 1272 INDORITAL MAVAL DIST PUNE INDORI 410506",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "410506",
+  "unit_consumed": 216.0,
+  "rate_per_unit": null,
+  "bill_date": null,
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

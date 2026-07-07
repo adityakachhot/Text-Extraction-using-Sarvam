@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "2268456956",
+  "total_bill_amount": 502.0,
+  "bill_amount": 501.99,
+  "arrears": 99.92,
+  "overdue_months_count": 0,
+  "name": "SRI MANISH KUMAR",
+  "fathers_name": "S/O SRI O",
+  "address": "1065-KALYANI DEVI CIVIL LI\nNE, Unnao, UP , IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "116011",
+  "unit_consumed": 44.0,
+  "rate_per_unit": 11.41,
+  "bill_date": "2026-01-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

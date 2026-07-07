@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23301014658",
+  "total_bill_amount": 3848.25,
+  "bill_amount": 1955.29,
+  "arrears": 1892.96,
+  "overdue_months_count": 1,
+  "name": "SHANTABEN DHANABHAI",
+  "fathers_name": null,
+  "address": "CHAMAR\nAT&PO ILOL\nAT&PO ILOL\nVILL:Ilol\nTAL:Himatnagar\nDISTRICT:Sabar Kantha\nSub-division Office Mehtapura S/D\nRoute Code 1/03/10/058",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "384001",
+  "unit_consumed": 305.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

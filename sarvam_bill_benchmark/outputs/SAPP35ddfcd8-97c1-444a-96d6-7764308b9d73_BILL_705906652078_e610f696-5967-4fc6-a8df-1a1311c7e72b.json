@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "7051897000",
+  "total_bill_amount": 2060.0,
+  "bill_amount": 2031.46,
+  "arrears": 28.81,
+  "overdue_months_count": 0,
+  "name": "DEEPAK WISWAS खंड",
+  "fathers_name": "LAKSHMAN CHAND",
+  "address": "1494KRISHNA NAGAR KRISHNA NAGAR MAHARAJGANJ MAHARAJGANJ UP IND xxxx978",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 312.0,
+  "rate_per_unit": 6.85,
+  "bill_date": "2025-08-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

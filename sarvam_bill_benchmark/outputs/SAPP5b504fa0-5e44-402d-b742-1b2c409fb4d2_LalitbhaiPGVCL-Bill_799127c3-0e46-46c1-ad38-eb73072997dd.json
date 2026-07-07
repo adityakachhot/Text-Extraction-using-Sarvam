@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "31807018822",
+  "total_bill_amount": 4926.42,
+  "bill_amount": 4926.42,
+  "arrears": 66.06,
+  "overdue_months_count": 1,
+  "name": "GANGWANI LALIT ASHUMALBHAI",
+  "fathers_name": null,
+  "address": "VILL:Rajkot (M Corp+OG) TAL:RAJKOT DISTRICT: RAJKOT",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 619.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

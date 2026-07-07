@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Madhya Pradesh Madhya Kshetra Vidyut Vitran Company Ltd.",
+  "consumer_number": "2587004153",
+  "total_bill_amount": 3012.0,
+  "bill_amount": 1764.0,
+  "arrears": 1233.0,
+  "overdue_months_count": 0,
+  "name": "DEVI SINGH RATANLAL RATHOR",
+  "fathers_name": null,
+  "address": "AWAS MACHALPUR",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 230.0,
+  "rate_per_unit": 7.67,
+  "bill_date": "2025-11-13",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "119860037103",
+  "total_bill_amount": 0.0,
+  "bill_amount": 0.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAJDHAR SNTOSH DHANGAR",
+  "fathers_name": null,
+  "address": "BAHAL TQ.CHALISGAON DIST.JALGAON BAHAL 424101",
+  "sanction_load": 0.26,
+  "sanction_load_unit": "KW",
+  "pincode": "424101",
+  "unit_consumed": 0.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2026-03-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

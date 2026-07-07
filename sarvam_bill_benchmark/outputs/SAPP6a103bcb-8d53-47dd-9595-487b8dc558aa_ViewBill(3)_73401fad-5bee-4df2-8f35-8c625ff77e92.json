@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "100512169",
+  "total_bill_amount": 4980.0,
+  "bill_amount": 4980.0,
+  "arrears": 7.42,
+  "overdue_months_count": 0,
+  "name": "BHAVNA MAHESHBHAI VASWANI",
+  "fathers_name": null,
+  "address": "FF 132/B,SARDARNAGAR,SINDHI COLONY,NR. C G SCHOOL,SARDARNAGAR,AHMEDABAD-382475",
+  "sanction_load": 1.9,
+  "sanction_load_unit": "kW",
+  "pincode": "382475",
+  "unit_consumed": 531.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "9911345000",
+  "total_bill_amount": 2820.0,
+  "bill_amount": 2347.86,
+  "arrears": 471.74,
+  "overdue_months_count": 0,
+  "name": "VIJAY MISHRA",
+  "fathers_name": "SHRIKANT MISHRA",
+  "address": "57TAJOPUR WARD NO 1 TAJOPUR\nWARD NO 1MAU MAU UP IND",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 0.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2025-11-07",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

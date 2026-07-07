@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "100386935",
+  "total_bill_amount": 1690.66,
+  "bill_amount": 1690.0,
+  "arrears": 6.37,
+  "overdue_months_count": 0,
+  "name": "JASHUBHAI MOHOBATSINH RATHOD",
+  "fathers_name": null,
+  "address": "TEKRAVALO VAS, OPP.RAMPIR NA MANDIR VINZOL GAM, AHMEDABA",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": "382445",
+  "unit_consumed": 187.0,
+  "rate_per_unit": 3.4,
+  "bill_date": "2026-01-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

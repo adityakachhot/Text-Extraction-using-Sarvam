@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Madhya Pradesh Madhya Kshetra Vidyut Vitran Company Ltd.",
+  "consumer_number": "IMG4052502016121",
+  "total_bill_amount": 6944.54,
+  "bill_amount": 6944.54,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SMT SHANTA BAI",
+  "fathers_name": "BEHRULAL SHOP",
+  "address": "HNO 9 NEAR,SHADI, HALL KARBALA ROAD,,BHOPAL, POLE X 061/2",
+  "sanction_load": 9.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 615.0,
+  "rate_per_unit": 11.29,
+  "bill_date": "2026-02-26",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

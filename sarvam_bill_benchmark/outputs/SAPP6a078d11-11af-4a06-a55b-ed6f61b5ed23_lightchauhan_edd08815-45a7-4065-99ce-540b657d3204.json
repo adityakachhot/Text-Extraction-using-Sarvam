@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "76527002556",
+  "total_bill_amount": 1252.94,
+  "bill_amount": 1252.94,
+  "arrears": 1961.16,
+  "overdue_months_count": 1,
+  "name": "THAKOR BALABHAI CHHABABHAI DARBAR-NAVI RAMOSH TA-MODASA",
+  "fathers_name": null,
+  "address": "VILL:Ramos TAL:Dhansura DISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 100.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

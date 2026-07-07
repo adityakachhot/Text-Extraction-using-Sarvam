@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "27126102127",
+  "total_bill_amount": 298.31,
+  "bill_amount": 298.31,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "MAKWANA RAMESHBHAI",
+  "fathers_name": "FATESANG",
+  "address": "AT VARNA KUMHAR FALI VILL:- TAL:- DISTRICT:-",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 50.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-29",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

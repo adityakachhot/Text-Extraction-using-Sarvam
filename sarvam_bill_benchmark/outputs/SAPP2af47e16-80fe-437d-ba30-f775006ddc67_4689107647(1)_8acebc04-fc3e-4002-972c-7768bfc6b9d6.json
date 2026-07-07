@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "4689107647",
+  "total_bill_amount": 4139.0,
+  "bill_amount": 3252.02,
+  "arrears": 887.12,
+  "overdue_months_count": 0,
+  "name": "SHRI ANUP KUMAR S/ O SHRI GOVARDHAN",
+  "fathers_name": "SHRI GOVARDHAN",
+  "address": "MIG S-D 46 P D NAGAR Unnao UP 209801 IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": "209801",
+  "unit_consumed": 462.93,
+  "rate_per_unit": 6.85,
+  "bill_date": "2026-02-07",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

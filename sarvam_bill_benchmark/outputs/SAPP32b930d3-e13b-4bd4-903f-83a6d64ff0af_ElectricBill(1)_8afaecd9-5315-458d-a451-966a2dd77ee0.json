@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": null,
+  "total_bill_amount": 10554.85,
+  "bill_amount": 10560.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAJBHAI MEGHAJIBHAI GORASA",
+  "fathers_name": null,
+  "address": "BL NO-0307,CHANDRABHAGA HOUSING C.S.R.H.S.T P SCHEME 28. NR BHAVSAR HOSTEL,NEW WADAJ AHMEDABAD-13.",
+  "sanction_load": 10.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380009",
+  "unit_consumed": 1014.0,
+  "rate_per_unit": 10.41,
+  "bill_date": "2025-09-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

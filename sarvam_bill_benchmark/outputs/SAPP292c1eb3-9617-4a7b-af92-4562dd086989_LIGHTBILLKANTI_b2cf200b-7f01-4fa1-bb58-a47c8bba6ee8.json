@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "70742003841",
+  "total_bill_amount": 1086.83,
+  "bill_amount": 1086.83,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "VADNGARA MOTI PARAG",
+  "fathers_name": null,
+  "address": "AT-SASAM, TA-PALANPUR DIST-B.K.",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 190.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DHBVN",
+  "consumer_number": "0028704107",
+  "total_bill_amount": 10247.0,
+  "bill_amount": 10247.0,
+  "arrears": 9330.28,
+  "overdue_months_count": null,
+  "name": "RAM BHAROSHI",
+  "fathers_name": null,
+  "address": "8040, 01, NEAR JEEVAN DHARA HOSPITAL\nISLAMABAD, 121102, islamabad, HR-121102, IND",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "121102",
+  "unit_consumed": 294.7,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-31",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

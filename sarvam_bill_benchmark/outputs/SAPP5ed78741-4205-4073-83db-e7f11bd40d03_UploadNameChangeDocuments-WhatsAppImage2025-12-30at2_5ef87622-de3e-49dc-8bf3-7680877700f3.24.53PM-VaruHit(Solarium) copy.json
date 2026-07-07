@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "80302001840",
+  "total_bill_amount": 1492.39,
+  "bill_amount": 1492.39,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "DEVARAJ LAKHABHAI GORASAD",
+  "fathers_name": null,
+  "address": "VILL:Aildhra TAL:MENDARDA DISTRICT:JUNAGADH",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "kW",
+  "pincode": "360004",
+  "unit_consumed": 253.0,
+  "rate_per_unit": 5.5,
+  "bill_date": "2025-11-23",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

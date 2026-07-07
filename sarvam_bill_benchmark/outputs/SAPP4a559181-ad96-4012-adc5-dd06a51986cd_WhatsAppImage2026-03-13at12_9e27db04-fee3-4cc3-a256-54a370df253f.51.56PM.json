@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "27056110347",
+  "total_bill_amount": 808.12,
+  "bill_amount": 808.12,
+  "arrears": 801.1,
+  "overdue_months_count": 0,
+  "name": "THAKOR VIJAYKUMAR KALUBHAI",
+  "fathers_name": null,
+  "address": "VISNAGAR ROAD,MEHSANA-384001",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "384001",
+  "unit_consumed": 127.0,
+  "rate_per_unit": 2.99,
+  "bill_date": "2026-03-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

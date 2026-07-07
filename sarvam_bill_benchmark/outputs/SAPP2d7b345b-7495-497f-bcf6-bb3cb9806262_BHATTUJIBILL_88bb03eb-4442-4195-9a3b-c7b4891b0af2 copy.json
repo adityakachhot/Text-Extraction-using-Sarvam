@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Madhya Pradesh Madhya Kshetra Vidyut Vitran Company Ltd.",
+  "consumer_number": "2947011054",
+  "total_bill_amount": 1823.0,
+  "bill_amount": 1823.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BHATTU SINGH RAIKWAR",
+  "fathers_name": null,
+  "address": "BHATTU SINGH,L.B.S NAGAR NEAR LAL DHAU, POOR-ANPURA",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 240.86,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "343182005929",
+  "total_bill_amount": 2870.0,
+  "bill_amount": 2860.0,
+  "arrears": 13.5,
+  "overdue_months_count": 0,
+  "name": "SHRISURAJ RAMESH YEWALEPATIL",
+  "fathers_name": null,
+  "address": "472/2/K KRUSHNA COMPLEX 2ND FLOOR 1ST BLOCK TEMBHURNI TAL-MADHA SOLAPUR 413211",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": "413211",
+  "unit_consumed": 80.0,
+  "rate_per_unit": 712.0,
+  "bill_date": "2025-12-13",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "APSPDCI",
+  "consumer_number": "3311214267706",
+  "total_bill_amount": 0.0,
+  "bill_amount": 0.0,
+  "arrears": 606.0,
+  "overdue_months_count": 1,
+  "name": "MENAPATI VENKATA DHARMY",
+  "fathers_name": null,
+  "address": "Aandhar",
+  "sanction_load": 0.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 18.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2026-01-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

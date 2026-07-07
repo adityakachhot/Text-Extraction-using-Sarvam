@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "08397001310",
+  "total_bill_amount": 485.41,
+  "bill_amount": 485.41,
+  "arrears": 0.01,
+  "overdue_months_count": 0,
+  "name": "CHAUDHARI MITULBHAI NATAVARBHAI",
+  "fathers_name": null,
+  "address": "Urja Sadan Nana Varachha Road, Kapodara, SURAT-395 006",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 92.0,
+  "rate_per_unit": 5.27,
+  "bill_date": "2026-02-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "969124",
+  "total_bill_amount": 4165.39,
+  "bill_amount": 4165.39,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "ROSHANLAL MOHANLAL TELI",
+  "fathers_name": null,
+  "address": "B NO 103/433 SECTOR 24, GANDHINAGAR",
+  "sanction_load": 1.33,
+  "sanction_load_unit": "kW",
+  "pincode": "300048",
+  "unit_consumed": 436.0,
+  "rate_per_unit": 9.56,
+  "bill_date": "2026-02-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

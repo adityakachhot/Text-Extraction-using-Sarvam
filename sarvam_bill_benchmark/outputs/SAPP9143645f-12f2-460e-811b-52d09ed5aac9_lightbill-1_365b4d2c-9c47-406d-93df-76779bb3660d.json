@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "343180011450",
+  "total_bill_amount": 4190.0,
+  "bill_amount": 4190.0,
+  "arrears": -3.94,
+  "overdue_months_count": 0,
+  "name": "SHRI RAMESH BANDU HAWALDAR",
+  "fathers_name": null,
+  "address": "Village : Pincode : 413208",
+  "sanction_load": 10.0,
+  "sanction_load_unit": "HP",
+  "pincode": "413208",
+  "unit_consumed": 161.0,
+  "rate_per_unit": 6.39,
+  "bill_date": "2025-12-07",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

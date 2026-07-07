@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Maharashtra State Electricity Distribution Company Limited",
+  "consumer_number": "160264856237",
+  "total_bill_amount": 320.0,
+  "bill_amount": 320.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SACHIN VITHHAL MOHOL",
+  "fathers_name": null,
+  "address": "SACHIN VITHHAL MOHOL\nS.NO.121/122 SHIVSAMARTH HALL NR NOVEL CAR CARE RAMBAUG COLONY KOTHRUD\nPUNE 411038",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "411038",
+  "unit_consumed": 4613.0,
+  "rate_per_unit": 0.09,
+  "bill_date": "2025-11-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

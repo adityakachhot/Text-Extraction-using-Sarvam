@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "510030886087",
+  "total_bill_amount": 12670.0,
+  "bill_amount": 12670.0,
+  "arrears": 5913.51,
+  "overdue_months_count": 0,
+  "name": "GANESH BABURAO KALE",
+  "fathers_name": null,
+  "address": "PLOT NO.50 SR.NO.185 GAYATRI NAGAR JALNA JALNA JAL NA Jalna (M CI) 431203",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "431203",
+  "unit_consumed": 458.0,
+  "rate_per_unit": 130.0,
+  "bill_date": "2025-11-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

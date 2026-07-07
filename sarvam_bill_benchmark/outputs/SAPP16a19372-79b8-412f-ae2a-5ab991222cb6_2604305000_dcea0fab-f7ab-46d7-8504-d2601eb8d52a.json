@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "2604305000",
+  "total_bill_amount": 41833.0,
+  "bill_amount": 1643.89,
+  "arrears": 35079.01,
+  "overdue_months_count": 0,
+  "name": "MR.SANDEEP KUMAR",
+  "fathers_name": "S/O.MAHARAJ SINGH",
+  "address": "NEAR POLICE STATIONINCHOLI\nNEAR POLICE STATIONINCHOLI\nMEERUT UP IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 181.0,
+  "rate_per_unit": 23.17,
+  "bill_date": "2026-01-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

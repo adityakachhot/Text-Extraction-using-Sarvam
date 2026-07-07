@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Uttarakhand Power Corporation Limited",
+  "consumer_number": "41800617217",
+  "total_bill_amount": 1962.0,
+  "bill_amount": 1852.0,
+  "arrears": 110.0,
+  "overdue_months_count": 0,
+  "name": "Bhagwan Das Juneja",
+  "fathers_name": "Prem Nath Juneja",
+  "address": "Jahangirpur, Khanpur, Rudrapur",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 308.0,
+  "rate_per_unit": 5.25,
+  "bill_date": "2026-01-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

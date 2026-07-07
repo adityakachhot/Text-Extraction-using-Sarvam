@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23318104191",
+  "total_bill_amount": 5510.58,
+  "bill_amount": 1366.0,
+  "arrears": 4144.58,
+  "overdue_months_count": 1,
+  "name": "LIMBACHIYA MEHULKUMAR JAGDISHB",
+  "fathers_name": null,
+  "address": "112,Derol VILL:Derol TAL:Himatnagar DISTRICT:Sabar Kantha Sub-division Office Mehtapura S/D",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 234.0,
+  "rate_per_unit": 5.5,
+  "bill_date": "2025-12-29",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "65930005176",
+  "total_bill_amount": 1320.44,
+  "bill_amount": 1320.44,
+  "arrears": 57.05,
+  "overdue_months_count": 1,
+  "name": "DEVENDRSINH BAHADURSINH JADEJA",
+  "fathers_name": null,
+  "address": "B.NO.205 KARMACHARINAGAR FULSAR-8460726075 VILL:Bhavnagar (M Corp+OG) TAL:BHAVNAGAR DISTRICT: BHAVNAGAR",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 192.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

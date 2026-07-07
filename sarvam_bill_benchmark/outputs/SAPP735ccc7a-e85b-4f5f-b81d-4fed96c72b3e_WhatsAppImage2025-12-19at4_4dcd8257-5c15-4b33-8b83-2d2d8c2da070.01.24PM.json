@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "99108c89acc65d",
+  "total_bill_amount": 12045.82,
+  "bill_amount": 12045.82,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Bajrang Lal",
+  "fathers_name": "Bhanwar Lal",
+  "address": "S O BHANWAR LAL SAIN S O B HANWAR LAL SAIN",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 829.0,
+  "rate_per_unit": 14.52,
+  "bill_date": "2025-12-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

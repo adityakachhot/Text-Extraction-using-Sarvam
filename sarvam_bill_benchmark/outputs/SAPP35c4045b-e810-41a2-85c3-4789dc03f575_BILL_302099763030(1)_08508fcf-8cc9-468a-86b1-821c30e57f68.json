@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "3021139808",
+  "total_bill_amount": 1344.0,
+  "bill_amount": 1343.35,
+  "arrears": 0.34,
+  "overdue_months_count": 0,
+  "name": "SRI VISHWAMBHAR NATH",
+  "fathers_name": "S/O MAHADEV NATH",
+  "address": "VILLAGE -BARAULI KHALILABADD\nNEAR SEC 12B VRINDAVAN YOJNA I\nB ROAD IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": "000000",
+  "unit_consumed": 165.0,
+  "rate_per_unit": 8.14,
+  "bill_date": "2025-11-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

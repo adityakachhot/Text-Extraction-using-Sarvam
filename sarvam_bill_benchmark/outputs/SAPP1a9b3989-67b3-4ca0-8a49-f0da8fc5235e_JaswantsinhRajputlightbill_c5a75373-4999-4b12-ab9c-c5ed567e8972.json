@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "1352428",
+  "total_bill_amount": 6402.75,
+  "bill_amount": 6400.0,
+  "arrears": 5.44,
+  "overdue_months_count": 0,
+  "name": "JASHVANTSING GANGASING",
+  "fathers_name": null,
+  "address": "692/1/1-BALIA VAS, B/H.BALIADEV MANDIR, AMRAIWADI, AHMEDABAD",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380015",
+  "unit_consumed": 668.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-12",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

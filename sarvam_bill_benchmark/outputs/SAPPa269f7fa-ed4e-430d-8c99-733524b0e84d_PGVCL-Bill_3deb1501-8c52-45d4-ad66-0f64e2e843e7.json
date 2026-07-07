@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "60851065325",
+  "total_bill_amount": 18528.49,
+  "bill_amount": 18528.49,
+  "arrears": 15773.39,
+  "overdue_months_count": 1,
+  "name": "Sonara Pravinaben Vijay",
+  "fathers_name": null,
+  "address": "Nava nagar Sosa., 77-3 LALPUR RD 7046978961 VILL:Jamnagar (M Corp+OG) TAL:Jamnagar DISTRICT: Jamnagar",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 396.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

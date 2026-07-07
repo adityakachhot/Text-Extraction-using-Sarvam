@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "171512122760",
+  "total_bill_amount": 2150.0,
+  "bill_amount": 2150.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "PRAKASH DATTATRYA WAGHMARE",
+  "fathers_name": null,
+  "address": "HNO 292 KADAM WAK WASTI TAL HAVELI DIST PUNE 412110",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "KW",
+  "pincode": "412110",
+  "unit_consumed": 188.0,
+  "rate_per_unit": 11.44,
+  "bill_date": "2025-10-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

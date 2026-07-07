@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "05724181746",
+  "total_bill_amount": 1073.98,
+  "bill_amount": 1073.98,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "IMTIYAZ A DESHMUKH",
+  "fathers_name": null,
+  "address": "Flat No.B-202 Maruti Complex\nEWS colony gandhiwadi\nVILL:Umbergaon (CT)\nTAL:Umbergaon\nDISTRICT:Valsad",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 154.0,
+  "rate_per_unit": 1.96,
+  "bill_date": "2026-01-31",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

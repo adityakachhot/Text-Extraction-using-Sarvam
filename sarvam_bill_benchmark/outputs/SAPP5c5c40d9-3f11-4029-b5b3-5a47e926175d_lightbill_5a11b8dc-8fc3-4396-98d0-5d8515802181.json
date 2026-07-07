@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "100034259",
+  "total_bill_amount": 2669.92,
+  "bill_amount": 2670.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "MARATHI SAHIBEN MAIDONDA AKLALAD PATEL",
+  "fathers_name": null,
+  "address": "H-502 VANDEMATRAIL HOMES B.S.T. CROSSING TO CHENIPUDI DR, NR BAHJANAND COMPLEX NEW ROAD, AHMEDABAD",
+  "sanction_load": 3000.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 10296.0,
+  "rate_per_unit": 9.0,
+  "bill_date": "2025-09-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

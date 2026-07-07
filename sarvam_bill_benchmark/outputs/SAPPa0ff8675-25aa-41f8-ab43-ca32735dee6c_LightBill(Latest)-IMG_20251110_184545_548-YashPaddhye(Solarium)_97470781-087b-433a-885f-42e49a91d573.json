@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "439470009634",
+  "total_bill_amount": 3780.0,
+  "bill_amount": 3780.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHRI DEVANAND RUSHI HUKARE",
+  "fathers_name": null,
+  "address": "HIS NO 387 AT, GAUTAM NAGAR WARDPOST-PAUNI 441910",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "441910",
+  "unit_consumed": 293.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2025-10-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

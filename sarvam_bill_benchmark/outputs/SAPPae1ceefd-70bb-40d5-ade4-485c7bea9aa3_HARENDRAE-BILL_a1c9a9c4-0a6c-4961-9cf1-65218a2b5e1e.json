@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "76411114412",
+  "total_bill_amount": 231.78,
+  "bill_amount": 231.78,
+  "arrears": 580.87,
+  "overdue_months_count": 1,
+  "name": "HARENDRA MOHANSINH PATEL",
+  "fathers_name": null,
+  "address": "20 RAVIKUNJ BUNGLOWS GERATPUR VILL:",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 33.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

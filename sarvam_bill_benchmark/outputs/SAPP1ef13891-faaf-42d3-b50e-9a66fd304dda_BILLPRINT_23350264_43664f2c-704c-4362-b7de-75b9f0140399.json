@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "जोधपुर विद्युत वितरण निगम लिमिटेड",
+  "consumer_number": "310224040209",
+  "total_bill_amount": 1228.0,
+  "bill_amount": 1228.41,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NARESH KUMAR",
+  "fathers_name": "MAHAVEER",
+  "address": "16 DPN , RAMGARH, NOHAR, NOHAR, Nohar, Hanumangarh",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 153.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

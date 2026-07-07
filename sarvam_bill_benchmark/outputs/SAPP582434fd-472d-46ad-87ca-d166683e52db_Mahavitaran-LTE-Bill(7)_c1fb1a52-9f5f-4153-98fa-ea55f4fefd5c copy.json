@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "410014971029",
+  "total_bill_amount": 1990.0,
+  "bill_amount": 1990.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHRI DEORAOJI RAJARAM THAKRE",
+  "fathers_name": null,
+  "address": "PLOT NO.46 MAHAKALI NAGAR RING ROAD NAGPUR 440024",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "440024",
+  "unit_consumed": 178.0,
+  "rate_per_unit": 11.1,
+  "bill_date": "2026-02-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

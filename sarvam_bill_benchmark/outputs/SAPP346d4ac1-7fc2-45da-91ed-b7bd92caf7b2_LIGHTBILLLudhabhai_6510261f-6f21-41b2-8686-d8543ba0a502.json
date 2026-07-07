@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "38909028190",
+  "total_bill_amount": 1270.99,
+  "bill_amount": 1276.73,
+  "arrears": -5.74,
+  "overdue_months_count": 1,
+  "name": "LADHUBHAI JUMA KHOKHAR",
+  "fathers_name": null,
+  "address": "BHIMRAO NAGAR KODKI ROAD BHUJ VILLAGE:Bhuj (M+OG) TALUKA:BHUJ DISTRICT:KACHCHH FEEDER CD 6 111252",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "kW",
+  "pincode": "111252",
+  "unit_consumed": 194.0,
+  "rate_per_unit": 6.53,
+  "bill_date": "2026-02-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

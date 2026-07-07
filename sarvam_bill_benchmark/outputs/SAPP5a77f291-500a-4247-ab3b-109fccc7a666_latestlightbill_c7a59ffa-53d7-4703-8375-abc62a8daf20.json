@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Maharashtra State Electricity Distribution Co. Ltd.",
+  "consumer_number": "171531383361",
+  "total_bill_amount": 490.0,
+  "bill_amount": 493.7,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "ARUN BHIMAJI THORAT",
+  "fathers_name": null,
+  "address": "SNO-388, SIDDHIVINAYAK NGR, KALJEWADI, HAVELI PUNE Pimpri Chinchwad (M\nCorp.) 412105",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": "412105",
+  "unit_consumed": 48.0,
+  "rate_per_unit": 10.07,
+  "bill_date": "2026-02-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

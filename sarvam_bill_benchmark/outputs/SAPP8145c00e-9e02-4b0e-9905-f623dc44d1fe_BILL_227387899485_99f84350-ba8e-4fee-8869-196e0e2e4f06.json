@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "2272023974",
+  "total_bill_amount": 2128.0,
+  "bill_amount": 2112.88,
+  "arrears": 15.38,
+  "overdue_months_count": 0,
+  "name": "Mamta singh",
+  "fathers_name": "BAIJNATH",
+  "address": "PLOT NO 27 KH NO 29 AMRAI GAOUN AMRAI GAOUN LUCKNOW UP 226028 IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226028",
+  "unit_consumed": 254.0,
+  "rate_per_unit": 6.85,
+  "bill_date": "2025-12-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "181113558274",
+  "total_bill_amount": 4610.0,
+  "bill_amount": 4610.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHRI DATTU RAGHUNATH KATAKE",
+  "fathers_name": null,
+  "address": "21 AT POST NANETAL MAVAL; DIST PUNE, NANE 410106",
+  "sanction_load": 0.6,
+  "sanction_load_unit": "KW",
+  "pincode": "410106",
+  "unit_consumed": 314.0,
+  "rate_per_unit": 52.0,
+  "bill_date": "2025-11-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

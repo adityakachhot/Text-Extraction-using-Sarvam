@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "03501012969",
+  "total_bill_amount": 1497.73,
+  "bill_amount": 1497.72,
+  "arrears": 0.01,
+  "overdue_months_count": 1,
+  "name": "VIDHAPATI JHA",
+  "fathers_name": null,
+  "address": "VILL:Hathuran TAL:Mangrol DISTRICT:Surat",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 239.0,
+  "rate_per_unit": 6.27,
+  "bill_date": "2026-01-30",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

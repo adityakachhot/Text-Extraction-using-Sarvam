@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "110014748679",
+  "total_bill_amount": 5510.0,
+  "bill_amount": 5510.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "LAXMIBAI DEVIDAS SURYAVANSHI",
+  "fathers_name": null,
+  "address": "LAXMIBAI DEVIDAS SOURAV ENCLAVE, G.N.91 PLOT NO 15 DASHRATH NAGAR JALGAON JALGAON (M C) 425001",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "425001",
+  "unit_consumed": 401.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2024-05-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

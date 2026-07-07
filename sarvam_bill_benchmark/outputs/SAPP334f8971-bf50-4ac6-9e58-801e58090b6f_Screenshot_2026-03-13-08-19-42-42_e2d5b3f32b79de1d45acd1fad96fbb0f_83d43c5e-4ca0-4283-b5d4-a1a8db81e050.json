@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "29338003094",
+  "total_bill_amount": 2613.61,
+  "bill_amount": 90.62,
+  "arrears": 2522.99,
+  "overdue_months_count": null,
+  "name": null,
+  "fathers_name": null,
+  "address": "VISNAGAR ROAD,MEHSANA-384001",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 14.0,
+  "rate_per_unit": null,
+  "bill_date": "2019-07-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "MGVCL",
+  "consumer_number": null,
+  "total_bill_amount": null,
+  "bill_amount": null,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "CHIRAGBHAI NAGESHWARBHAI PARMAR",
+  "fathers_name": null,
+  "address": "HOUSE NO: 4/4, VANKAR VAS, MAVLI, VADODARA, DISTRICT: VADODARA, TALUKA: DADHOI",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": null,
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

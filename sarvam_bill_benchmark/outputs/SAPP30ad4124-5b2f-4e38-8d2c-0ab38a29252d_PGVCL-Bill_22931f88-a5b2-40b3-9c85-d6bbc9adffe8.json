@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "60227150074",
+  "total_bill_amount": 4226.56,
+  "bill_amount": 4226.56,
+  "arrears": 12.82,
+  "overdue_months_count": 1,
+  "name": "ARJANBHAI BHUTABHAI SARVAIYA",
+  "fathers_name": null,
+  "address": "VILL:Rampar TAL:BHAVNAGAR DISTRICT: BHAVNAGAR",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 513.0,
+  "rate_per_unit": 8.23,
+  "bill_date": "2025-11-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

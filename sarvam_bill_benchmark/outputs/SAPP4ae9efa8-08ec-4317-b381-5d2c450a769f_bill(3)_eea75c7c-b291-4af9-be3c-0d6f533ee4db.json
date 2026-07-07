@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "1489386000",
+  "total_bill_amount": 23201.0,
+  "bill_amount": 592.0,
+  "arrears": 18333.53,
+  "overdue_months_count": null,
+  "name": "SANDEEP KUMAR GUPTA",
+  "fathers_name": "DEENANATH",
+  "address": "BHAGATPURVA DAGARUPUR\\nMAHRAJGANJ UP IND",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "242215",
+  "unit_consumed": 179.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

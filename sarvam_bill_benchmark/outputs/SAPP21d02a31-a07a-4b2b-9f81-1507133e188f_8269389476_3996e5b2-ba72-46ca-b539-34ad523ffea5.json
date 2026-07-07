@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "8269389476",
+  "total_bill_amount": 1682.0,
+  "bill_amount": 1679.41,
+  "arrears": 2.52,
+  "overdue_months_count": 0,
+  "name": "HARSHIT TIWARI",
+  "fathers_name": "NA",
+  "address": "PURAN NAGAR Unnao UP 209801 IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "209801",
+  "unit_consumed": 76.0,
+  "rate_per_unit": 5.49,
+  "bill_date": "2026-03-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "BSES",
+  "consumer_number": "152164973",
+  "total_bill_amount": 10680.0,
+  "bill_amount": 10680.0,
+  "arrears": 5673.48,
+  "overdue_months_count": 1,
+  "name": "Mr. ARVIND KUMAR SRIVASTAVA",
+  "fathers_name": null,
+  "address": "671/7-A 3rdF, FRONT PORTION GALI NO-7-A , GOVINDPURI KALKAJI, NEW DELHI-110019",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": "110019",
+  "unit_consumed": 711.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

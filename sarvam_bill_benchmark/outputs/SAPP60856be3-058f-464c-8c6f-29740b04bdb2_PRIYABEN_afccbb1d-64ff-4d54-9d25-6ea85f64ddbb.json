@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "39201276176",
+  "total_bill_amount": 4120.61,
+  "bill_amount": 4120.61,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BHATT PRIYABEN SACHIN",
+  "fathers_name": null,
+  "address": "SL-557/1,Sub Plot-141/B,Madhav Nager,Navavas Madhaapr,Mob-9586286826",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 1370.0,
+  "rate_per_unit": 6.43,
+  "bill_date": "2025-12-04",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

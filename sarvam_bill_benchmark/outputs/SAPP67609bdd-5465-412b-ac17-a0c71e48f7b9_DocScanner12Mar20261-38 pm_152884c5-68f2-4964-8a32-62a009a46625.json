@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "west gujarat viga company ltd.",
+  "consumer_number": "2490214644M",
+  "total_bill_amount": 8610.0,
+  "bill_amount": 8610.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "parmar rameshbhai",
+  "fathers_name": null,
+  "address": "ta. 10-08-26 ward/sthala dml - t",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

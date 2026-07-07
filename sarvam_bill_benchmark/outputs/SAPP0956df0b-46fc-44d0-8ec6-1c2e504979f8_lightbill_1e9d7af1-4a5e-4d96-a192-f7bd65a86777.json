@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "07412511190MGTCPG0010465",
+  "total_bill_amount": 10661.33,
+  "bill_amount": 9254.25,
+  "arrears": 1407.08,
+  "overdue_months_count": 1,
+  "name": "RAVAL HITESHBHAI RATANSINH",
+  "fathers_name": null,
+  "address": "931,RANIPURA\nVILLAGE:Sathrota\nTALUKA:Halol\nDISTRICT:Panch Mahals\nFEEDER\nCD 11 MAGHAS",
+  "sanction_load": 7.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 1238.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-08-21",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

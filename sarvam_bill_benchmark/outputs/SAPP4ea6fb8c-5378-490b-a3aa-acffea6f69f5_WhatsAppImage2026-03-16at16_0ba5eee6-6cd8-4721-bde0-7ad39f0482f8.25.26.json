@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "51415000840",
+  "total_bill_amount": 537.61,
+  "bill_amount": 537.61,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BHIKHABHAI AMBALAL PATEL",
+  "fathers_name": null,
+  "address": "ASODAR, 18002332670/19124",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "390007",
+  "unit_consumed": 176.0,
+  "rate_per_unit": 3.05,
+  "bill_date": "2026-02-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

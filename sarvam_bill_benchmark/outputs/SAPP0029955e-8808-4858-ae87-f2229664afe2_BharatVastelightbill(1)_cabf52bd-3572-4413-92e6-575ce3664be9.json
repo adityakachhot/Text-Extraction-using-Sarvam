@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "343020356809",
+  "total_bill_amount": 7770.0,
+  "bill_amount": 7770.0,
+  "arrears": 0.0,
+  "overdue_months_count": null,
+  "name": "SHRI BHARAT ANANT VASTE",
+  "fathers_name": null,
+  "address": "S S NO 1127 DATT NAGAR TAL, MADHA DIST SOLAPUR MODLMB 413208",
+  "sanction_load": 0.2,
+  "sanction_load_unit": "KW",
+  "pincode": "413208",
+  "unit_consumed": 562.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

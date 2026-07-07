@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "410022545438",
+  "total_bill_amount": 5750.0,
+  "bill_amount": 5700.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RADHESHYAM RAJNATH GUPTA",
+  "fathers_name": null,
+  "address": "Plot no .7 Lokkalyan society NAGPUR (URBAN) NAGPUR Nagpur (M Corp.) 440008",
+  "sanction_load": 4686.0,
+  "sanction_load_unit": "kW",
+  "pincode": "440008",
+  "unit_consumed": 351.0,
+  "rate_per_unit": 16.0,
+  "bill_date": "2026-02-20",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

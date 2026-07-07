@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "21601096500",
+  "total_bill_amount": 1480.25,
+  "bill_amount": 1480.25,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "CHAVDA MANUJI BHAGVANJI",
+  "fathers_name": null,
+  "address": "SVAMINARAYAN NAGAR MANSA VILL:Mansa (M) TAL:Mansa DISTRICT:Gandhinagar SUB-division Office MANSA O&M S/D ROUTE CODE 3/01/14/434",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "HP",
+  "pincode": "384001",
+  "unit_consumed": 215.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-02-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

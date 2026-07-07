@@ -1,0 +1,387 @@
+उपखण्ड कोड :
+3203270
+उपखण्ड नाम व पता :
+AEN_OM_NANDRI
+
+[IMAGE]
+
+*VITRAN
+NIGAM
+LTD
+JOAGARH
+2020*
+
+## जोधपुर विद्युत वितरण निगम लिमिटेड
+
+रजिस्टर्ड कार्यालय न्यू पावर हाउस, जोधपुर, विद्युत उपभोग विपत्र (उपभोक्ता प्रति.)
+PAN NO -AAACJ8578R, GSTIN. 08AAACG8578R1ZJ, HSN CODE. - 2716
+
+टोल फ्री शिकायत न
+1800-180-6045
+
+कार्यालय फोन नं : 0
+
+कार्यालय ई-मेल
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">के.नं</th>
+<th colspan="3">: 320327039601</th>
+<th colspan="4">बिल माह:<br/>202602<br/>उपयोग:<br/>454.00<br/>नियत भुगतान तिथि:<br/>13-02-2026</th>
+<th colspan="3">बिल न:<br/>022627861<br/>बिल जारी करने की तिथि:<br/>03-02-2026<br/>विलिंग स्थिति:<br/>N<br/>कुल माह बिल:<br/>1,4700</th>
+</tr>
+<tr>
+<th>पिछली बकाया राशि (रु.)</th>
+<th colspan="2">वर्तमान देश राशि (रु.)</th>
+<th colspan="2">नियत तिथि तक कुल देय राशि(रु.)</th>
+<th>विलम्ब भुगतान सरचार्ज(रु.)</th>
+<th>नियत तिथि पश्चात् देय कुल राशि</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>मोबाइल न.<br/>PAN No.<br/>ई–मेल<br/>कैंप नं : []</td>
+<td>9602414619</td>
+<td>-<br/>:-<br/>:-</td>
+<td>9602414619</td>
+<td>-<br/>:-<br/>:-</td>
+<td>6201.06</td>
+<td>-<br/>:-<br/>:-</td>
+<td>119.48</td>
+<td>-<br/>:-<br/>:-</td>
+<td>6321</td>
+</tr>
+<tr>
+<td>सेवा क्रमांक</td>
+<td>12274</td>
+<td>स्वी. श्रेणी</td>
+<td>NON<br/>DOMESTIC</td>
+<td>क्र.सं</td>
+<td colspan="3">विद्युत बिल विवरण</td>
+<td>बिल राशि (रु.)</td>
+<td></td>
+</tr>
+<tr>
+<td>खाता संख्या</td>
+<td>18090686</td>
+<td>टैरिफ कोड</td>
+<td>2000</td>
+<td>1</td>
+<td colspan="3">विद्युत खर्च</td>
+<td>3638.46</td>
+<td></td>
+</tr>
+<tr>
+<td>स्वी.लोड(कि.वा./हा.पा.)</td>
+<td>8.00 (KW)</td>
+<td>शहरी/ग्रामीण</td>
+<td>R</td>
+<td>2</td>
+<td colspan="3">स्थाई शुल्क</td>
+<td>1881.60</td>
+<td></td>
+</tr>
+<tr>
+<td>कनेक्टेड लोड(कि.वा./हा.पा.)</td>
+<td>8.00 (KW)</td>
+<td>मीटरिंग टाइप</td>
+<td>1</td>
+<td>3</td>
+<td colspan="3">फ्यूल सरचार्ज(+)<रेगुलेटरी सरचार्ज</td>
+<td>454.0</td>
+<td></td>
+</tr>
+<tr>
+<td>कॉन्ट्रैक्ट डिमांड( के वी ऐ)</td>
+<td>0.00</td>
+<td>मीटर स्वामित्व</td>
+<td>B</td>
+<td>4</td>
+<td colspan="3">डिमांड सरचार्ज</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>पावर फैक्टर</td>
+<td>0.000</td>
+<td>सप्लाई वोल्टेज</td>
+<td>400</td>
+<td>5</td>
+<td colspan="3">पावर फैक्टर सरचार्ज(+)प्रोत्साहन(-)/शट कैपैसिटर सरचार्ज (3%)</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>बिलिग डिमांड</td>
+<td>0.000</td>
+<td>मीटरिंग वोल्टेज</td>
+<td>400</td>
+<td>6</td>
+<td colspan="3">अनाधिकृत उपभोग राशि / Diff.of Capping EC</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>मीटर की स्थिति</td>
+<td>R</td>
+<td>डी.टी.सी.कोड</td>
+<td>1287890</td>
+<td>7</td>
+<td colspan="3">सी.टी./पी.टी. किराया</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>उपभोक्ता की स्थिति</td>
+<td>N</td>
+<td>अमानत राशि(रु)</td>
+<td>4000.00</td>
+<td>8</td>
+<td colspan="3">ट्रांसफार्मर किराया</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन तिथि</td>
+<td>01-02-2026</td>
+<td>मीटर/सी.टी.सी.टी.सुरक्षा<br/>राशि(रु)</td>
+<td>2500.0/0.0</td>
+<td>9</td>
+<td colspan="3">(1) अन्य/TOD Surcharge</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>गत पठन तिथि</td>
+<td>19-12-2025</td>
+<td>औसत मासिक उपभोग(पू.दि)</td>
+<td>0</td>
+<td></td>
+<td colspan="3">(2) Green Energy/Parallel Charges</td>
+<td>0.0</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान स्थापित मीटर नं</td>
+<td>9453061</td>
+<td>गुणांक</td>
+<td>1.00</td>
+<td>10</td>
+<td colspan="3">रिबेट्स(-)1वोल्टेज (Other Rebates)</td>
+<td>-0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KWH)</td>
+<td>454.00</td>
+<td>गत पठन (KWH)</td>
+<td>0.00</td>
+<td></td>
+<td colspan="3">(2)सोलर/स्िंकलर (TOD Rebale)</td>
+<td>-0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KVAH)</td>
+<td>0.00</td>
+<td>गत पठन (KVAH)</td>
+<td>0.00</td>
+<td>11</td>
+<td colspan="3">निगम राशि (क्रम सं 1 से 10 तक का योग)</td>
+<td>5974.06</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KVA)</td>
+<td>0.00</td>
+<td>गत पठन (KVA)</td>
+<td>0.00</td>
+<td>12</td>
+<td colspan="3">विद्युत शुल्क वर्तमान उपभोग पर</td>
+<td>181.60</td>
+<td></td>
+</tr>
+<tr>
+<td>बदले गये/अतिरिक्त मीटर नं</td>
+<td>0</td>
+<td>गुणांक</td>
+<td></td>
+<td>13</td>
+<td colspan="3">जल संरक्षण उपकर</td>
+<td>45.40</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KWH)</td>
+<td>S</td>
+<td>गत पठन (KWH)</td>
+<td>0</td>
+<td>14</td>
+<td colspan="3">नगरीय उपकर</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KVAH)</td>
+<td></td>
+<td>गत पठन (KVAH)</td>
+<td></td>
+<td>15</td>
+<td colspan="3">अन्य देय / जमा कोड**</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KVA)</td>
+<td></td>
+<td>गत पठन (KVA)</td>
+<td></td>
+<td>16</td>
+<td colspan="3">स्रोत पर संग्रहित (TCS)/TDS</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>वर्तमान पठन (KVA)</td>
+<td></td>
+<td>गत पठन (KVA)</td>
+<td></td>
+<td>17</td>
+<td colspan="3">समाोजित राशि (Lock Adjustment)</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>Remarks (MC/RV case)</td>
+<td>By NCMS</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>TOD</td>
+<td>यूनिट</td>
+<td>उपभोग</td>
+<td>यूनिट</td>
+<td>18</td>
+<td colspan="3">कुल उपभोग राशि (क्रम 11 से 17 तक का योग)</td>
+<td>6201.06</td>
+<td></td>
+</tr>
+<tr>
+<td>TOD (12PM to 4PM)</td>
+<td>0.0</td>
+<td>(KWH)</td>
+<td>454.00</td>
+<td>19</td>
+<td colspan="3">पिछले बिल तक बकाया राशि</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>TOD (6AM to 8AM)</td>
+<td>0.0</td>
+<td>(KVAH)</td>
+<td>0.00</td>
+<td>20</td>
+<td colspan="3">स्थगित बकाया राशि</td>
+<td>-0.00</td>
+<td></td>
+</tr>
+<tr>
+<td>TOD (6PM to 10PM)</td>
+<td>0.0</td>
+<td>(KVA)</td>
+<td>0.00</td>
+<td>21</td>
+<td colspan="3">राज्य सरकार द्वारा वहन राशि (1) टैरिफ सब्सिडी</td>
+<td>-0.000</td>
+<td></td>
+</tr>
+<tr>
+<td>Green Energy Units</td>
+<td>0.0</td>
+<td>Incr. Units/New Ins.Units</td>
+<td>0.00</td>
+<td>22</td>
+<td colspan="3">(2) मुख्यमंत्री किसान मित्र ऊर्जा योजना में अनुदान</td>
+<td>0</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="12">पिछले बारह बिलिंग माह में अंकित उपभोग एवं यूनिट</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>बिल माह</td>
+<td>202601</td>
+<td>202512</td>
+<td>202511</td>
+<td>202510</td>
+<td>202509</td>
+<td>202508</td>
+<td>202507</td>
+<td>202506</td>
+<td>202505</td>
+<td>202504</td>
+<td>202503</td>
+<td>202502</td>
+</tr>
+<tr>
+<td>उपभोग</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Last bill amount</th>
+<th>Last Payment due date</th>
+<th>Last Payment</th>
+<th>Last Payment date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.00</td>
+<td>19-12-2025</td>
+<td>null</td>
+<td>null</td>
+</tr>
+</tbody>
+</table>
+
+बार कोड
+
+1
+
+1
+
+Scan & Pay
+
+प्रिंट दिनांक : 3 Feb, 2026 11:15:31 AM

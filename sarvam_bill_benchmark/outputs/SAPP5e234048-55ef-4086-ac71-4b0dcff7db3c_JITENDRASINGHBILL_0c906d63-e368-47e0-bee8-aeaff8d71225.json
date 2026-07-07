@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "0350634922",
+  "total_bill_amount": 3123.0,
+  "bill_amount": 3088.1,
+  "arrears": 35.34,
+  "overdue_months_count": 0,
+  "name": "SRI JITENDRA SINGH",
+  "fathers_name": "HARISHCHANDRA SINGH",
+  "address": "592 CHA/132/6 LAUNGA KHERA KHARIKA TELIBAGH Lucknow UP 226002 IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226002",
+  "unit_consumed": 442.0,
+  "rate_per_unit": 6.95,
+  "bill_date": "2025-11-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

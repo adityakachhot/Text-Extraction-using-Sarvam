@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "18002332670",
+  "total_bill_amount": 13986.0,
+  "bill_amount": 13986.0,
+  "arrears": 11625.1,
+  "overdue_months_count": 1,
+  "name": "PARSOTTAMBHAI MOHANBHAI PADHIY",
+  "fathers_name": "AT.KANBHA",
+  "address": "PADHIYARPURA NR.DILHI CHA AT.KANBHA DT-20 11 05 VILLAGE:KANBHA TALUKA:BORSAD DISTRICT:ANAND",
+  "sanction_load": 1800.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 1822.0,
+  "rate_per_unit": 7.5,
+  "bill_date": "2025-11-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

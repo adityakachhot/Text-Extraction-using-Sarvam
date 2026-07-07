@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "266560044089",
+  "total_bill_amount": 320.0,
+  "bill_amount": 320.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "Gajanan Shivaling Ambupe",
+  "fathers_name": null,
+  "address": "Shau Mal KARVIR KOLHAPUR Chikhali 416229",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "416229",
+  "unit_consumed": 27.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2025-12-12",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

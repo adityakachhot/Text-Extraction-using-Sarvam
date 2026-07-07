@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "પશ્ચિમ ગુજરાત વીજ કંપની લીમીટેડ",
+  "consumer_number": "39201264534",
+  "total_bill_amount": 2358.08,
+  "bill_amount": 0.0,
+  "arrears": 3827.0,
+  "overdue_months_count": 1,
+  "name": "WHANDEL DINESH DAYARAM ER.",
+  "fathers_name": null,
+  "address": "ER. 539, PL. 37, SHANTIVAN, NAVAVAS, MADHAPAR, 991311131 VILLAGE: BHUJ (M+DG) TALUKA: BHUJ DISTRICT: KACHCHH",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 0.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23516100508",
+  "total_bill_amount": 1775.08,
+  "bill_amount": 1775.08,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RATHOD HATHISINH ABHESINH",
+  "fathers_name": null,
+  "address": "AT&PO KABODRA\nMO.9909234725\nVILL:Kabodra\nTAL:Talod\nDISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 252.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

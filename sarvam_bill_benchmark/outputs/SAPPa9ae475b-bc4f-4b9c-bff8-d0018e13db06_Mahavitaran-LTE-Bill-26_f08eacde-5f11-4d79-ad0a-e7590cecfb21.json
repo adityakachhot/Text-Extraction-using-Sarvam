@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "176762889324",
+  "total_bill_amount": 4060.0,
+  "bill_amount": 4060.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NILAVATI MANIKRAO KHANDAGALE",
+  "fathers_name": null,
+  "address": "GAT NO 199 GOVIND NAGAR KHED PUNE Ambethan 410501",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "410501",
+  "unit_consumed": 235.0,
+  "rate_per_unit": 11.1,
+  "bill_date": "2025-12-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

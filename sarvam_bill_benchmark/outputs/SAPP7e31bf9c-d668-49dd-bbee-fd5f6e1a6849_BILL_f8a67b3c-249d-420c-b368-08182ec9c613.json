@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "5787871000",
+  "total_bill_amount": 2205.0,
+  "bill_amount": 2205.0,
+  "arrears": 0.18,
+  "overdue_months_count": 0,
+  "name": "SH JAI BHAGWAN",
+  "fathers_name": "BHURIYA RAM",
+  "address": "BHURIYA RAM, Kalanaur, HR, IND",
+  "sanction_load": 1.8,
+  "sanction_load_unit": "kW",
+  "pincode": "134113",
+  "unit_consumed": 494.1,
+  "rate_per_unit": 4.46,
+  "bill_date": "2025-09-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

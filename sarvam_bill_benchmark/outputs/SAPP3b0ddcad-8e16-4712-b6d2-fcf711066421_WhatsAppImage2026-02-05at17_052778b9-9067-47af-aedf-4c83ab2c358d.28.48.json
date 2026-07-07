@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Mahadishcom",
+  "consumer_number": "170213831723",
+  "total_bill_amount": 4500.0,
+  "bill_amount": 4500.0,
+  "arrears": 4500.0,
+  "overdue_months_count": 1,
+  "name": "ANIL PANDURANG KURHADE",
+  "fathers_name": null,
+  "address": "75/6/7, SAMATA CLY, JYOTIBANAGAR KALEWADI PUNE 411017",
+  "sanction_load": 4635.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "411017",
+  "unit_consumed": 343.0,
+  "rate_per_unit": 13.12,
+  "bill_date": "2026-02-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": null,
+  "total_bill_amount": 17841.38,
+  "bill_amount": 17841.38,
+  "arrears": 11.11,
+  "overdue_months_count": 1,
+  "name": null,
+  "fathers_name": null,
+  "address": "સરદાર પટેલ વિધુત ભવન રેસકોર્સ, વડોદરા ૩૯૦૦૦૭",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "390007",
+  "unit_consumed": 7.0,
+  "rate_per_unit": 2.0,
+  "bill_date": "2025-10-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

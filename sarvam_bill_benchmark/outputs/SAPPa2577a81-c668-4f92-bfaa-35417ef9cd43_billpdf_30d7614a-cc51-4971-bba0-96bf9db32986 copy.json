@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "5117886090",
+  "total_bill_amount": 378.0,
+  "bill_amount": 278.8,
+  "arrears": 99.67,
+  "overdue_months_count": 0,
+  "name": "JEETENDRA GUPTA",
+  "fathers_name": "LAKHAN SINGH",
+  "address": "2/459 SUHAG NAGAR, FIROZABAD 143-Firozabad FIROZABAD UP 283203 IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "283203",
+  "unit_consumed": 0.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2026-03-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

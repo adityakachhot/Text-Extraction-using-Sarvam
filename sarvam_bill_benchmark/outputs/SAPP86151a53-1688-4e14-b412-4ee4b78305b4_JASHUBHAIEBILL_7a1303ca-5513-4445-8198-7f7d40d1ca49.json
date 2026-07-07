@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23951010800",
+  "total_bill_amount": 469.55,
+  "bill_amount": 469.55,
+  "arrears": 2361.8,
+  "overdue_months_count": 1,
+  "name": "PARMAR JASHUBHAI ARKHABHAI",
+  "fathers_name": null,
+  "address": "AT.VADAGAM\nVILL:Vadagam\nTAL:Dhansura\nDISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 77.0,
+  "rate_per_unit": 2.3,
+  "bill_date": "2026-03-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "163798",
+  "total_bill_amount": 4924.93,
+  "bill_amount": 4924.93,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BHARATBHAI BHOGILAL MISTRY",
+  "fathers_name": null,
+  "address": "BHARAT NIWAS, NANO THAKOR VAS,\nB/H HIMANSHU SCHOOL,\nVASTRAPUR, AHMEDABAD 380015",
+  "sanction_load": 2.5,
+  "sanction_load_unit": "kW",
+  "pincode": "380015",
+  "unit_consumed": 526.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

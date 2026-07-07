@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "143243306450",
+  "total_bill_amount": 1116.0,
+  "bill_amount": 1015.46,
+  "arrears": 100.47,
+  "overdue_months_count": 0,
+  "name": "PRABHU SHANKAR SHUKLA",
+  "fathers_name": null,
+  "address": "OLD MARKET PURAMUFTI ALLAHABAD UP IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 100.0,
+  "rate_per_unit": 6.85,
+  "bill_date": "2025-09-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

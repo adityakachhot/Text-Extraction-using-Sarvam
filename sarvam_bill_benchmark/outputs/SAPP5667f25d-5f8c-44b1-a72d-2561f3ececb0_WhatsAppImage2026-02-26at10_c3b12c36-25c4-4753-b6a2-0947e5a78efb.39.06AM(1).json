@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "महाराष्ट्र राज्य विद्युत वितरण कंपनी मर्यादित",
+  "consumer_number": "173240144958",
+  "total_bill_amount": 1650.0,
+  "bill_amount": 1650.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SAVITA BALASAHEB JAGTAP",
+  "fathers_name": null,
+  "address": "PUNRVASAN PATHARSHT PATAS DAUND PUNE Patas 412219",
+  "sanction_load": 5886.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "412219",
+  "unit_consumed": 154.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2026-02-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

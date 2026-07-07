@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "18307014417",
+  "total_bill_amount": 3371.4,
+  "bill_amount": 3371.4,
+  "arrears": -62.65,
+  "overdue_months_count": 1,
+  "name": null,
+  "fathers_name": null,
+  "address": "ઉર્જા સદન, નાના વરાછા રોડ, કાપોદ્રા, સૂરત - ૩૯૫૦૦૬",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "૩૯૫૦૦૬",
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

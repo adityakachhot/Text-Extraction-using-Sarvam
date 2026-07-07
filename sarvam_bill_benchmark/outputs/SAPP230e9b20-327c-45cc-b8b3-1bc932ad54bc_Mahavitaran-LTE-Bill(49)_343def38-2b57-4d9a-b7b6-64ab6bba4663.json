@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "550601022273",
+  "total_bill_amount": 970.0,
+  "bill_amount": 970.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Nilesh Rajesh Pabitwar",
+  "fathers_name": null,
+  "address": "H.NO.18 BUS STAND ROAD UMRI NANDED Peth Umri (M CI ) 431807",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": "431807",
+  "unit_consumed": 111.0,
+  "rate_per_unit": 8.72,
+  "bill_date": "2026-01-12",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

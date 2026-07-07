@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Maharashtra State Electricity Distribution Company Limited",
+  "consumer_number": "490014844683",
+  "total_bill_amount": 1090.0,
+  "bill_amount": 1090.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KARBHARI ASARAM JADHAV",
+  "fathers_name": null,
+  "address": "HARSOOL, ARANGABAD GUT NO.191/2, P.NO.13, FLAT NO. A-1 BHUMI HEIGHTS 431001",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "431001",
+  "unit_consumed": 126.0,
+  "rate_per_unit": 8.666666666666666,
+  "bill_date": "2026-02-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

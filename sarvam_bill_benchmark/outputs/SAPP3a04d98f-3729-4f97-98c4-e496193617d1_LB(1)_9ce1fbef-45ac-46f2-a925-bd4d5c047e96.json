@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "082040212163",
+  "total_bill_amount": 800.0,
+  "bill_amount": 800.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KHAIRNAR PRAKASH BHIKA",
+  "fathers_name": null,
+  "address": "PL.NO.35,C.S.NO. 286,TAYYABI NAGAR NANDURBAR 425412",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "425412",
+  "unit_consumed": 106.0,
+  "rate_per_unit": 7.56,
+  "bill_date": "2026-02-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

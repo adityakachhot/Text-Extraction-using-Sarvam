@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "250653453775",
+  "total_bill_amount": 1220.0,
+  "bill_amount": 1220.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SANTOSH BALAVANT DAKARE",
+  "fathers_name": null,
+  "address": "M.NO.4111, FARANDE MALA, 416116",
+  "sanction_load": 0.3,
+  "sanction_load_unit": "KW",
+  "pincode": "416116",
+  "unit_consumed": 0.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2025-12-20",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

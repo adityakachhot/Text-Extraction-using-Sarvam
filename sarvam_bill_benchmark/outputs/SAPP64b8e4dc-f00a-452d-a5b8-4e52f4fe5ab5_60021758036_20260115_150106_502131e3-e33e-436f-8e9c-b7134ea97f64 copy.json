@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Tata Power DDL",
+  "consumer_number": "60021758036",
+  "total_bill_amount": 3210.0,
+  "bill_amount": 3210.0,
+  "arrears": -825.84,
+  "overdue_months_count": 0,
+  "name": "MR. PRINJAY KUMAR",
+  "fathers_name": "Mr. KASHMIRI LAL",
+  "address": "KH.NO. 44/1 1ST FLOOR\nSWAMI SHARDHA NAND PARK SWAMI SHARDHA\nCOLONY VILLAGE BHALSWA DAIRY LANDMARK\n**Supply Address:**KH. NO. 44/1 1ST FLOOR\nSWAMI SHARDHA NAND PARK SWAMI SHARDHA\nCOLONY VILLAGE BHALSWA DAIRY CITY DELHI",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 310.0,
+  "rate_per_unit": 3.0,
+  "bill_date": "2026-01-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

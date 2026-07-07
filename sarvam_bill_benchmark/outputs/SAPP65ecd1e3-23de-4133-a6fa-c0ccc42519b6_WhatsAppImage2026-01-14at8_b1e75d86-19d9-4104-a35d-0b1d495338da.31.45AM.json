@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "P<br/>G<br/>V<br/>C<br/>L",
+  "consumer_number": "39013003222",
+  "total_bill_amount": 1332.25,
+  "bill_amount": 1332.25,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": null,
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 268.0,
+  "rate_per_unit": 5.0,
+  "bill_date": "2022-10-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

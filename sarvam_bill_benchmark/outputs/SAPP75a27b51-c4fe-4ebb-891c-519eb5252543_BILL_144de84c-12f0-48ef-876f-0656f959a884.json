@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23901012508",
+  "total_bill_amount": 2757.95,
+  "bill_amount": 2783.23,
+  "arrears": -25.28,
+  "overdue_months_count": 1,
+  "name": "PRAJAPATI NANJIBHAI",
+  "fathers_name": null,
+  "address": "BECHARBHAI, BANSIDHAR SOC AT.DHANSURA, TA.MODASA, VILL:Dhansura, TAL:Dhansura, DISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 424.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-24",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

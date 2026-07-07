@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "9365131000",
+  "total_bill_amount": 38891.0,
+  "bill_amount": 38891.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "SATYENDRA",
+  "fathers_name": null,
+  "address": null,
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": null,
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

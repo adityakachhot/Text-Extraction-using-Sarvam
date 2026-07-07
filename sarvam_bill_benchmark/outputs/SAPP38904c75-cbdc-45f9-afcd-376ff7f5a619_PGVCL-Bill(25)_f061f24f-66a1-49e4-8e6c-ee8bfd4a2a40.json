@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "25931003851",
+  "total_bill_amount": 1098.44,
+  "bill_amount": 1098.44,
+  "arrears": 1184.05,
+  "overdue_months_count": 3,
+  "name": "RAGHUBHAI RANCHHODBHAO RABARI",
+  "fathers_name": null,
+  "address": "AT:GODAVARI TA:MULI VILL:Godavari TAL:MULI DISTRICT:SURENDRANAGAR",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 192.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-10-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

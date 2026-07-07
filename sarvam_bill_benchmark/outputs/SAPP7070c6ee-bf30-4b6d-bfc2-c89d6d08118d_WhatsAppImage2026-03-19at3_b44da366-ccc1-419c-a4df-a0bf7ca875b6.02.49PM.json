@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "699236",
+  "total_bill_amount": 2110.0,
+  "bill_amount": 2110.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "MEVALAL BADRIPRASAD JAISWAL",
+  "fathers_name": null,
+  "address": "9,KUNDAN NAGAR B/H GAURI CINEMA HIGHWAY ROAD ODHAV AHMEDABAD",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "300151",
+  "unit_consumed": 229.0,
+  "rate_per_unit": 8.975,
+  "bill_date": "2026-03-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

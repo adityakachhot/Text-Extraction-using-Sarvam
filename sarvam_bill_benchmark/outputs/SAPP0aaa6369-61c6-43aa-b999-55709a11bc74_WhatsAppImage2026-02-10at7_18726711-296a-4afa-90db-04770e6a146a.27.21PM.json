@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "82401026614",
+  "total_bill_amount": 298.0,
+  "bill_amount": 298.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NAGA MALDE GADHAVI",
+  "fathers_name": null,
+  "address": "VIL BHATIA GANESHVS, MO-8000003184 VILLAGE:BHATIAY, TALUKA:KALYANPUR DISTRICT:JANNAGAR",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 3.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-08-29",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

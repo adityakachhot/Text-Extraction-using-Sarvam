@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "15229044012",
+  "total_bill_amount": 777.06,
+  "bill_amount": 777.06,
+  "arrears": 2091.14,
+  "overdue_months_count": 1,
+  "name": null,
+  "fathers_name": null,
+  "address": "સબડીવીઝનનું નામ:BRD FATEHGUNJ",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 116.0,
+  "rate_per_unit": 6.7,
+  "bill_date": "2025-11-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

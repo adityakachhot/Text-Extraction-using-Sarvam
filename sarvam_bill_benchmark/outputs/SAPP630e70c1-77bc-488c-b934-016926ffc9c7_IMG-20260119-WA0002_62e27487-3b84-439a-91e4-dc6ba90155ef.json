@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "160231766411",
+  "total_bill_amount": 2170.0,
+  "bill_amount": 2170.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "APPASAHEB BALIRAM PAWAR",
+  "fathers_name": null,
+  "address": "S NO 277/LANE NO 5 LOHEGAON Pune (M Corp.) Ta:PUNE CITY Di:PUNE 411047",
+  "sanction_load": 12000.0,
+  "sanction_load_unit": "KW",
+  "pincode": "411047",
+  "unit_consumed": 192.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2025-12-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

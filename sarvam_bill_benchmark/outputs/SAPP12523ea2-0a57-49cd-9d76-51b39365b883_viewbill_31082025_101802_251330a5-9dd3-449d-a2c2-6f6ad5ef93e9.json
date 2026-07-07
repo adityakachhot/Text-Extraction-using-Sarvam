@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "675066081",
+  "total_bill_amount": 2704.29,
+  "bill_amount": 2704.01,
+  "arrears": 0.28,
+  "overdue_months_count": 0,
+  "name": "Mr. RAMNARESH SINGH GURJAR",
+  "fathers_name": "S/O MR.SHIVNATH SINGH G",
+  "address": "PLOT NO. 50, KHASRA NO. 68,69 BILLING MONTH fcy ekg JULY 2025 LAXMI PALACE, PHASE-2, UKKHARRA",
+  "sanction_load": 2.7,
+  "sanction_load_unit": "KW",
+  "pincode": "380015",
+  "unit_consumed": 366.0,
+  "rate_per_unit": 7.5,
+  "bill_date": "2025-07-31",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

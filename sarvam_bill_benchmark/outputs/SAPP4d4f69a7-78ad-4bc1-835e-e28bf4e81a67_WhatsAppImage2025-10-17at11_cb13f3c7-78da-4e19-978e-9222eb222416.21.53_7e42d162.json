@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "KESCO",
+  "consumer_number": "0456720000",
+  "total_bill_amount": 3592.0,
+  "bill_amount": 297.25,
+  "arrears": 3294.81,
+  "overdue_months_count": 0,
+  "name": "SHYAM SINGH",
+  "fathers_name": null,
+  "address": "KRIPAL SINGH ARAJI NO-142 B KHADEPUR NEAR-SANTOSH BABA TEM PANTKANPUR NAGAR, KANPUR NALAK. U P , IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "201001",
+  "unit_consumed": 13.0,
+  "rate_per_unit": 22.86,
+  "bill_date": "2025-09-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

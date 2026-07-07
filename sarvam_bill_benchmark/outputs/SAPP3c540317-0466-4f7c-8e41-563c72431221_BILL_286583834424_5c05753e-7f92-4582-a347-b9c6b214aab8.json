@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "2869823773",
+  "total_bill_amount": 656.0,
+  "bill_amount": 556.61,
+  "arrears": 99.51,
+  "overdue_months_count": 0,
+  "name": "GUDDU",
+  "fathers_name": "RAM SWAROOP",
+  "address": "16 Saiyyad bada Tilhar Saiyyad bada\nTILHAR UP 242307 IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": "242307",
+  "unit_consumed": 64.0,
+  "rate_per_unit": 8.69,
+  "bill_date": "2025-11-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

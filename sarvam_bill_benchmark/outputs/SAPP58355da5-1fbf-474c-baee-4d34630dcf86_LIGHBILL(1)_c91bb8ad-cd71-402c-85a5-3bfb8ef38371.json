@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "3001997506",
+  "total_bill_amount": 5910.0,
+  "bill_amount": 5910.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHANTIBHAI ODHAVAJIBHAI VALA",
+  "fathers_name": null,
+  "address": "PLOT-70/A. PLUT-70/A, GR FLOOR.BOM.MKT. TO PUNE RD., SARGAM PARK SOC., LAMBE HANUMAN ROAD,MAGOB, SURAT.395006",
+  "sanction_load": 25.0,
+  "sanction_load_unit": "kW",
+  "pincode": "395006",
+  "unit_consumed": 654.0,
+  "rate_per_unit": 9.02,
+  "bill_date": "2026-01-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

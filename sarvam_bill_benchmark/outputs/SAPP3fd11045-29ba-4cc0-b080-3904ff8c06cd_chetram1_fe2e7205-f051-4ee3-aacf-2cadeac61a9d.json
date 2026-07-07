@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Uttarakhand Power Corporation Limited",
+  "consumer_number": "40116151571",
+  "total_bill_amount": 1624.0,
+  "bill_amount": 954.5,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Sri/Smt. Chetram Bulakiram Vivek Nagar Ward 2, Rudrapur",
+  "fathers_name": null,
+  "address": "Sri/Smt. Chetram Bulakiram Vivek Nagar Ward 2, Rudrapur, RUDRAPUR-1",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "273131",
+  "unit_consumed": 189.0,
+  "rate_per_unit": 3.65,
+  "bill_date": "2026-03-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "15060227",
+  "total_bill_amount": 2891.0,
+  "bill_amount": 2891.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Norat Mal",
+  "fathers_name": null,
+  "address": "S/O GOGA JAT DERATH\nS/O GOGA JAT",
+  "sanction_load": 0.2,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 358.0,
+  "rate_per_unit": 8.08,
+  "bill_date": "2025-12-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

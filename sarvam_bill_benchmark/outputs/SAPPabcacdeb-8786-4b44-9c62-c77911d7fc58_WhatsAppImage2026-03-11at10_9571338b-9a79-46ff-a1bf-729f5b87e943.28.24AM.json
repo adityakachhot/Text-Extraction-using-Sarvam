@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "16022026",
+  "total_bill_amount": 1502.52,
+  "bill_amount": 1502.52,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "ASHOKNAGAR H SOC SINGANPORE KATARGAM RD SURAT",
+  "fathers_name": null,
+  "address": "ASHOKNAGAR H SOC SINGANPORE KATARGAM RD SURAT",
+  "sanction_load": 1.14,
+  "sanction_load_unit": "kW",
+  "pincode": "395003",
+  "unit_consumed": 185.0,
+  "rate_per_unit": 8.17,
+  "bill_date": "2026-02-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

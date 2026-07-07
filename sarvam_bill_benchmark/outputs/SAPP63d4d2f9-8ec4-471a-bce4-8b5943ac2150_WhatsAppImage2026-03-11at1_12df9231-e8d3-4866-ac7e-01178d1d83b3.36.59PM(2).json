@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UP Energy",
+  "consumer_number": "6383520000",
+  "total_bill_amount": 1219.0,
+  "bill_amount": 1219.68,
+  "arrears": -0.38,
+  "overdue_months_count": 0,
+  "name": "Awadh Kumari",
+  "fathers_name": "W/O Sushil Kumar",
+  "address": "W/O Sushil Kumar J620 W B Colony Gujainikananpur 208014, Kanpur Nagar, U P, IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "208014",
+  "unit_consumed": 162.0,
+  "rate_per_unit": 7.52,
+  "bill_date": "2026-02-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

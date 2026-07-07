@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "45246057070",
+  "total_bill_amount": 3436.56,
+  "bill_amount": 3436.56,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Siddhapara Vinubhai Bavchandb",
+  "fathers_name": null,
+  "address": "Urja Sadan Nana Varachha Road, Kapodara, SURAT-395 006",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 544.0,
+  "rate_per_unit": 1.618,
+  "bill_date": "2025-09-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

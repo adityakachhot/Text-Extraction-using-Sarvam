@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "3800478000",
+  "total_bill_amount": 1144.0,
+  "bill_amount": 1129.5,
+  "arrears": 14.76,
+  "overdue_months_count": 0,
+  "name": "GAURAV KUSHWAHA",
+  "fathers_name": "ONKAR NATH",
+  "address": "K-13 KHASRA NO 2571 SA KALP CITY BIJNOUR ROAD LUCKNOW/LESA LUCKNOW UP IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226001",
+  "unit_consumed": 143.0,
+  "rate_per_unit": 7.89,
+  "bill_date": "2026-03-07",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

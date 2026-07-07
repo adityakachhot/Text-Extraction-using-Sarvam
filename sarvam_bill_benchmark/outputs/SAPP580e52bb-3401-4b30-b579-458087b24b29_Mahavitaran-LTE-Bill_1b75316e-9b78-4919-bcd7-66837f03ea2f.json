@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "490015506145",
+  "total_bill_amount": 5130.0,
+  "bill_amount": 5130.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "ALKA ASHOK JADHAV",
+  "fathers_name": null,
+  "address": "SURVEY NO.-15(PART), PLOT NO.- 119, SECTOR NO.- F CH. SAMBHAJINAGAR CH. SAMBHAJINAGAR CH. SAMBHAJINA 431001",
+  "sanction_load": 6.0,
+  "sanction_load_unit": "KW",
+  "pincode": "431001",
+  "unit_consumed": 371.0,
+  "rate_per_unit": 13.68,
+  "bill_date": "2026-01-21",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Madhya Pradesh Paschim Kshetra Vidyut Vitran Company Ltd.",
+  "consumer_number": "3007024947",
+  "total_bill_amount": 5226.0,
+  "bill_amount": 5226.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHARAVAN HIRALAL OSTAWAL",
+  "fathers_name": null,
+  "address": "342 NEW 452 RAMANAND NAGAR, SIRPUR, INDORE",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "452001",
+  "unit_consumed": 21.49,
+  "rate_per_unit": 243.5,
+  "bill_date": "2026-02-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

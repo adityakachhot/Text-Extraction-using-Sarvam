@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "194197667603",
+  "total_bill_amount": 6260.0,
+  "bill_amount": 2031.76,
+  "arrears": 4206.3,
+  "overdue_months_count": 0,
+  "name": "Ramji Sahani",
+  "fathers_name": "Ramchandara Sahani",
+  "address": "139 Dostpura 120-PRAYAGRAJ KOPAGANJ UP 275305 IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kW",
+  "pincode": "275305",
+  "unit_consumed": 311.19,
+  "rate_per_unit": 6.85,
+  "bill_date": "2025-11-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

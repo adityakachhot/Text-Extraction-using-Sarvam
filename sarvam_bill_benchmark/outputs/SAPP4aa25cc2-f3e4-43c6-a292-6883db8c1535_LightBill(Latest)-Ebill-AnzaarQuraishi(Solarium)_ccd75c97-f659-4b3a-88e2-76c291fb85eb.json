@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "महावितरण",
+  "consumer_number": "+41020002460",
+  "total_bill_amount": 0.0,
+  "bill_amount": 0.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAHUL CHITAMANJI SHELKE",
+  "fathers_name": null,
+  "address": "H.NO. 01, AJANIGADA ROAD KAMPTEE, 444-1U",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2025-07-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

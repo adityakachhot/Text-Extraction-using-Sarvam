@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23936100845",
+  "total_bill_amount": 40.64,
+  "bill_amount": 40.64,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "MAKWANA MAHESHKUMAR",
+  "fathers_name": null,
+  "address": "VADANSINH GARUDI HOUSE-567 VILL:Garudi TAL:Modasa DISTRICT:Sabar Kantha Sub-division Office Dhansura S/D",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 38.0,
+  "rate_per_unit": 2.3,
+  "bill_date": "2026-02-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

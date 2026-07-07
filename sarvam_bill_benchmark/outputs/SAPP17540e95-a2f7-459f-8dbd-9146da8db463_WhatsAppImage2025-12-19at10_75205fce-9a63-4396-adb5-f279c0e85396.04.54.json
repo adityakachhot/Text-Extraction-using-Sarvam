@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "34506900822",
+  "total_bill_amount": 4720.0,
+  "bill_amount": 4720.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Trishikesh Kedar Bhange",
+  "fathers_name": null,
+  "address": "Near Government Hospital Main Road MNHOL SOLAPUR Moh of 413219",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "413219",
+  "unit_consumed": 0.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

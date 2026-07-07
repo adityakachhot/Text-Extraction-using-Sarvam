@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "44459017610",
+  "total_bill_amount": 2556.76,
+  "bill_amount": 2556.76,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "VAGHELA SURSANG PRABHUBHAI",
+  "fathers_name": null,
+  "address": "PLOT NO 120 KIRTINAGAR UTRAN TA CHORASI VILL:Surat (M Corp+OG) (Part) TAL:Surat City DISTRICT:Surat",
+  "sanction_load": 590.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 364.0,
+  "rate_per_unit": 3.79,
+  "bill_date": "2026-01-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

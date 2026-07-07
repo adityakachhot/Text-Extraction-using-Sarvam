@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PASCHIMANCHAL VIDYUT VITARAN NIGAM LTD",
+  "consumer_number": "1855803000",
+  "total_bill_amount": 3855.0,
+  "bill_amount": 3855.15,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHARMA DEVI",
+  "fathers_name": "W/O MADAN LAL",
+  "address": "NT 39, AKBARPUR TURNING ROAD, GHATKOPAR, JA, IND",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "kVA",
+  "pincode": null,
+  "unit_consumed": 0.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

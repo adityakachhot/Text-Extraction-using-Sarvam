@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": null,
+  "total_bill_amount": 9994.1,
+  "bill_amount": 9994.1,
+  "arrears": 78394.1,
+  "overdue_months_count": 1,
+  "name": "SHAIKH AJITBHALA",
+  "fathers_name": null,
+  "address": "SARDAR PATEL VIDYUT BHAVAN, RACECOURSE, VADODARA 390007",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "390007",
+  "unit_consumed": 6.0,
+  "rate_per_unit": null,
+  "bill_date": "2023-11-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

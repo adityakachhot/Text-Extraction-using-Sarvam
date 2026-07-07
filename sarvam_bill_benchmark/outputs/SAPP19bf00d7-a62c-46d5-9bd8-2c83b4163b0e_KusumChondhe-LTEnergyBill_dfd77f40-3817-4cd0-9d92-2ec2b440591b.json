@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "182830049828",
+  "total_bill_amount": 14180.0,
+  "bill_amount": 14180.0,
+  "arrears": 612.53,
+  "overdue_months_count": 0,
+  "name": "KUSUM KAILAS CHONDHE",
+  "fathers_name": null,
+  "address": "BHUGAON CHONDHE DARA 412111",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": "412111",
+  "unit_consumed": 564.0,
+  "rate_per_unit": 16.64,
+  "bill_date": "2025-07-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

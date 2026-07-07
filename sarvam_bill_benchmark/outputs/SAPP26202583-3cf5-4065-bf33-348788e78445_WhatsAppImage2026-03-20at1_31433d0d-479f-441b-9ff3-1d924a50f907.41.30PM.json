@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "44035002550",
+  "total_bill_amount": 2855.35,
+  "bill_amount": 2855.35,
+  "arrears": -0.01,
+  "overdue_months_count": 1,
+  "name": "RAMESHBHAI NARANBHAI",
+  "fathers_name": null,
+  "address": "VILL FULWADI\\nMANDVI\\nVILL:Fulvadi\\nTAL:Mandvi\\nDISTRICT:Surat",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 463.0,
+  "rate_per_unit": 4.59,
+  "bill_date": "2026-02-07",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

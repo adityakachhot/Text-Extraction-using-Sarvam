@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": null,
+  "total_bill_amount": 3746.0,
+  "bill_amount": 3746.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": "Sardar Patel Electrical Bhavan Racecourse, Vadodara 390008",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "390008",
+  "unit_consumed": 3746.0,
+  "rate_per_unit": 10.0,
+  "bill_date": "2025-06-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

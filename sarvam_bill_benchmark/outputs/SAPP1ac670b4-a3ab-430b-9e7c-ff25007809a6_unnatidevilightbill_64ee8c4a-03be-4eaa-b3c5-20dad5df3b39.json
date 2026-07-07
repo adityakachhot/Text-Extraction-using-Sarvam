@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "5000kW",
+  "total_bill_amount": 5740.0,
+  "bill_amount": 5740.0,
+  "arrears": 12120.0,
+  "overdue_months_count": 1,
+  "name": "UNNATIDEVI MANOJ KUMAR RAJPUT",
+  "fathers_name": null,
+  "address": "105 / B/121 BHAVDEEP SOC LTD ASOPALAV TENAMENT MAMA NA KUVA B/H VATVA HOSPITAL VATVA AHMEDABAD",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 604.0,
+  "rate_per_unit": 9.5,
+  "bill_date": "2026-01-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

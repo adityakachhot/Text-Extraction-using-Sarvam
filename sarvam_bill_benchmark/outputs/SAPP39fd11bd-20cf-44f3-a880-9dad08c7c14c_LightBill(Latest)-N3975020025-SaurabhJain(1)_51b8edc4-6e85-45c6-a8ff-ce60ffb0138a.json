@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Madhya Pradesh Paschim Kshetra Vidyut Vitran Company Ltd.",
+  "consumer_number": "3975020025",
+  "total_bill_amount": 1270.17,
+  "bill_amount": 1264.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "ANKIT PITA RAMKUMAR PARIYA",
+  "fathers_name": null,
+  "address": "6/1 , KALIDAS MARG GANESHPURA , UJJAIN",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 168.12,
+  "rate_per_unit": 7.55,
+  "bill_date": "2025-10-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

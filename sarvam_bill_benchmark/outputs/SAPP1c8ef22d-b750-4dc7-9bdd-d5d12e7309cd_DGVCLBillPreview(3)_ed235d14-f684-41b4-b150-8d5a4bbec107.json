@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "05819006690",
+  "total_bill_amount": 2868.37,
+  "bill_amount": 2868.37,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BALUBHAI BHANABHAI PATEL DHAGAD FALIA SUKESH",
+  "fathers_name": null,
+  "address": "Dhagad Falia Sukesh Tal.Pardi Tal:Pardi District:Valsad",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 465.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

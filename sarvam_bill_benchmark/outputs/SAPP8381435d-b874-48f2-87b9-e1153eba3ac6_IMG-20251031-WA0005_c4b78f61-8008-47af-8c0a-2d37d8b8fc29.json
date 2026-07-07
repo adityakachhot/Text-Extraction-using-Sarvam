@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "657749",
+  "total_bill_amount": 4582.74,
+  "bill_amount": 4582.74,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHARDABEN RAMANBHAI SUTHAR",
+  "fathers_name": null,
+  "address": "8/A NEELDARSHAN CO OP H SOC L D NR MANIASHA SOC NR CANAL BUS STAND MANINAGAR AHMEDABAD 8",
+  "sanction_load": 6.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380009",
+  "unit_consumed": 493.0,
+  "rate_per_unit": 9.28,
+  "bill_date": "2025-09-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "0071157428",
+  "total_bill_amount": 671.0,
+  "bill_amount": 371.28,
+  "arrears": 299.75,
+  "overdue_months_count": 0,
+  "name": "NARESH PAL",
+  "fathers_name": "S/O OM PRAKASH",
+  "address": "MOH. BAKSARIYA BLY Faridpur UP",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "243503",
+  "unit_consumed": 31.0,
+  "rate_per_unit": 6.5,
+  "bill_date": "2026-02-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

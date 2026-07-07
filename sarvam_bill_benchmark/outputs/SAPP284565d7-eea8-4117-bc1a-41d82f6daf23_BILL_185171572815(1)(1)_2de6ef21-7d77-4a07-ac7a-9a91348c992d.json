@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "1852866000",
+  "total_bill_amount": 11149.0,
+  "bill_amount": 950.09,
+  "arrears": 8963.86,
+  "overdue_months_count": 0,
+  "name": "RADHEY SHYAM",
+  "fathers_name": "",
+  "address": "RAM CHARAN BASTI RAM CHARAN BASTI MORADABAD UP IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 79.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-17",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

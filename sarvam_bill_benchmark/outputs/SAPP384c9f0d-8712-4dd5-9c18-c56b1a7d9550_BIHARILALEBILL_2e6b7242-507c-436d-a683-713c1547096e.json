@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "9849813265",
+  "total_bill_amount": 9007.0,
+  "bill_amount": 9339.19,
+  "arrears": -332.0,
+  "overdue_months_count": 0,
+  "name": "SRI BIHARI LAL",
+  "fathers_name": "S/O SRI BANKE LAL",
+  "address": "SRI BIHARI LAL S/o  SRI BANKE LAL,BHARTOLIYA,HUMAYUPURNORTH,GORAKHPUR Gorakhpur UP 273015 IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "273015",
+  "unit_consumed": 0.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

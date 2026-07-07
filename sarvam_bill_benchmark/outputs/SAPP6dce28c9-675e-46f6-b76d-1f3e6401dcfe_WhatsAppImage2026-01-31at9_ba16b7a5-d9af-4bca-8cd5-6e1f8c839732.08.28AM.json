@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "MSEDCL",
+  "consumer_number": "279340010251",
+  "total_bill_amount": 217.0,
+  "bill_amount": 217.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "MAHADEV PIRGONDA DESAI",
+  "fathers_name": null,
+  "address": "VISHRAMBAG S/DN/SANGLI RURAL",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 6246.0,
+  "rate_per_unit": 6031.0,
+  "bill_date": "2028-02-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

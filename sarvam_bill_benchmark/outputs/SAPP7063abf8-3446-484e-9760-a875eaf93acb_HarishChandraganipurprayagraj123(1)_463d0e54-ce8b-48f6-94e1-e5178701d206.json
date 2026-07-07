@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "4930212100",
+  "total_bill_amount": 19401.0,
+  "bill_amount": 19401.0,
+  "arrears": 12700.16,
+  "overdue_months_count": 0,
+  "name": "HARISH CHANDRA",
+  "fathers_name": "RAM ASRE",
+  "address": "GANIPUR GANIPUR UP IND",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 67.0,
+  "rate_per_unit": 6.5,
+  "bill_date": "2025-10-22",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

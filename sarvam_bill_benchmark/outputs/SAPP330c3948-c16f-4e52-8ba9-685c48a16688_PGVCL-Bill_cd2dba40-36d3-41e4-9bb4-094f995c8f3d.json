@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "33072015040",
+  "total_bill_amount": 1467.7,
+  "bill_amount": 1467.7,
+  "arrears": 6.99,
+  "overdue_months_count": 1,
+  "name": "JANAKBA NONGHUBHA JADEJA",
+  "fathers_name": null,
+  "address": "KHAMBHALIY 9825416361, VILL:Danta TAL:Khambhalia, DISTRICT: Jamnagar",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 183.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

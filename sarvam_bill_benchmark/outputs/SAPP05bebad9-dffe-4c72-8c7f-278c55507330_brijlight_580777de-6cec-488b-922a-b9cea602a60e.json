@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "85609173337",
+  "total_bill_amount": 1020.89,
+  "bill_amount": 1020.89,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": null,
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 156.0,
+  "rate_per_unit": 6.54,
+  "bill_date": "2026-01-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

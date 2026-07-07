@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "1102450",
+  "total_bill_amount": 71.0,
+  "bill_amount": 0.47,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NITESH JOSHI",
+  "fathers_name": "S/O RAMPRASAD JOSHI",
+  "address": "CHANDRAS, CHANDRAS, CHANDRAS, MANDAL, Chandras, Bhilwara CHANDRAS, CHANDRAS, CHANDRAS, MANDAL, Chandras, Bhilwara",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 0.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2025-11-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "23070091",
+  "total_bill_amount": 1726.71,
+  "bill_amount": 1726.71,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RAKESH HARIJAN",
+  "fathers_name": "S/O RAMCHANDRA HARIJ",
+  "address": "S/O RAMCHANDRA HARIJ FCI",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 163.0,
+  "rate_per_unit": 928.5,
+  "bill_date": "2026-02-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

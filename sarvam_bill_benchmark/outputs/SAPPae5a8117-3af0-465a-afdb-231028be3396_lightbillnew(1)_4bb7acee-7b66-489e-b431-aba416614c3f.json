@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "70748001220",
+  "total_bill_amount": 723.2,
+  "bill_amount": 723.2,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "THAKKAR ARTI ASHVINKUMAR",
+  "fathers_name": null,
+  "address": "AT-DALVADA TA-PALANPUR DIST-B.K. VILL:Dalwada TAL:Palanpur DISTRICT: Banas Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 127.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

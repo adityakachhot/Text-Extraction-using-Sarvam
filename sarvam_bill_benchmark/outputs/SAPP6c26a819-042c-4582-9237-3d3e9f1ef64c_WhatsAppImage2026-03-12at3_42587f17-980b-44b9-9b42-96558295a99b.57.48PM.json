@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "T G N P D C L",
+  "consumer_number": "CB62DE5BE",
+  "total_bill_amount": 1584.0,
+  "bill_amount": 1584.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "G.NAGENDAR",
+  "fathers_name": null,
+  "address": "D.No.",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 257.0,
+  "rate_per_unit": 6.16,
+  "bill_date": "2026-03-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

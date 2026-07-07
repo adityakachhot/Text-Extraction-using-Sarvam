@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "62113563681",
+  "total_bill_amount": -980.94,
+  "bill_amount": -980.94,
+  "arrears": 5772.93,
+  "overdue_months_count": 0,
+  "name": "RATHOD KANCHANBEN RAJESHBHAI",
+  "fathers_name": null,
+  "address": "KRUSHNA KUNJ.BL NO.14,PUSHKARDHAM PARK,NANDI",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "346102",
+  "unit_consumed": 211.0,
+  "rate_per_unit": 7.88,
+  "bill_date": "2025-11-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

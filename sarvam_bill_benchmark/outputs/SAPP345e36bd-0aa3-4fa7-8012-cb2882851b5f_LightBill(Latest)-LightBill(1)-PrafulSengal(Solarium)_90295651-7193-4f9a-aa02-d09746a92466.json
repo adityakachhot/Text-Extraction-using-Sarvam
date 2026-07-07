@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "76401125381",
+  "total_bill_amount": 140.0,
+  "bill_amount": 140.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "VERMA RANJEET RAMPRASAD",
+  "fathers_name": null,
+  "address": "BLOK NO-35 BALESHWAR HOMES, BLOK NO-35,HATHIJAN, VILL:Ahmadabad (M Corp.+OG), (Part), TAL:Ahmadabad City, DISTRICT:Ahmadabad, Sub-division Office Vinzol S/D, Route Code 1/01/24/036",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 0.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

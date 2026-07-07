@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "411628",
+  "total_bill_amount": 5440.0,
+  "bill_amount": 5440.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "VINODCHANDRA KANTILAL PATEL",
+  "fathers_name": null,
+  "address": "50, RIDDHI CO OP H SOC LTD., B/H RANNA PARK, GHATLODIA, AHMEDABAD.",
+  "sanction_load": 2.96,
+  "sanction_load_unit": "kW",
+  "pincode": "380001",
+  "unit_consumed": 576.0,
+  "rate_per_unit": 9.45,
+  "bill_date": "2026-03-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

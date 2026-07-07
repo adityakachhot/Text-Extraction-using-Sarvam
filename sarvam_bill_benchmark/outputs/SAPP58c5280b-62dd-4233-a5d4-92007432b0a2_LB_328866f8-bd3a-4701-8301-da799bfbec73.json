@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "083040007825",
+  "total_bill_amount": 880.0,
+  "bill_amount": 879.07,
+  "arrears": 8.07,
+  "overdue_months_count": 0,
+  "name": "VIKAS PARBAT KOKANI",
+  "fathers_name": null,
+  "address": "H No 161 AT POST WAGHALE NANDURBAR NANDURBAR Waghale425412",
+  "sanction_load": 0.64,
+  "sanction_load_unit": "KW",
+  "pincode": "425412",
+  "unit_consumed": 102.0,
+  "rate_per_unit": 0.95,
+  "bill_date": "2025-10-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

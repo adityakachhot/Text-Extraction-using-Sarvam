@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "VIITRAN NIGAM LTD.",
+  "consumer_number": "320327039601",
+  "total_bill_amount": 6321.0,
+  "bill_amount": 6321.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": "New Power House, JODHPUR, Rajasthan",
+  "sanction_load": 8.0,
+  "sanction_load_unit": "KW",
+  "pincode": "320327",
+  "unit_consumed": 454.0,
+  "rate_per_unit": 13.92,
+  "bill_date": "2026-02-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

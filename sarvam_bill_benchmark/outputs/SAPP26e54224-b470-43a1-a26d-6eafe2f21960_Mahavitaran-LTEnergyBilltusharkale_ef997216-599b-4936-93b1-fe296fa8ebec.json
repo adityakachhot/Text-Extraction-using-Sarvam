@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170203880726",
+  "total_bill_amount": 1650.0,
+  "bill_amount": 1650.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHRI PRASHANT SUDHAKAR SHIMPI",
+  "fathers_name": null,
+  "address": "RH.NO7 SNO.21/1 MAYURSHWAR SAI NISARG PARK PIM.SAUDAGAR PUNE 411027",
+  "sanction_load": 6.0,
+  "sanction_load_unit": "KW",
+  "pincode": "411027",
+  "unit_consumed": 131.0,
+  "rate_per_unit": 12.59,
+  "bill_date": "2025-12-22",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

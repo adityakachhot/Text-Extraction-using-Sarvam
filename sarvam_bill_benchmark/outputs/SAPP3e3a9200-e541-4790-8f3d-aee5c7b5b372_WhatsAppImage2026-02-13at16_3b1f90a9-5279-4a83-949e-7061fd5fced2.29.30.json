@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "030820361551",
+  "total_bill_amount": 40.0,
+  "bill_amount": 40.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "MACHINDRA KASHINATH DHAMOSE",
+  "fathers_name": null,
+  "address": "HO, NO. 85 A SAJGAON KHALAPUR RAIGAD Khopoli (M CI) 410203",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "410203",
+  "unit_consumed": 67.0,
+  "rate_per_unit": 90.0,
+  "bill_date": "2025-08-13",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

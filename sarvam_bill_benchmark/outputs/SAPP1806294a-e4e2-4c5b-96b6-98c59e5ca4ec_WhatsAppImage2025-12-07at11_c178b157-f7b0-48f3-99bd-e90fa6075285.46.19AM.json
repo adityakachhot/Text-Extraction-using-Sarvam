@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "18080092",
+  "total_bill_amount": 3054.0,
+  "bill_amount": 3054.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KAMLESH MEENA",
+  "fathers_name": "KANWAR SINGH MEEN",
+  "address": "S/O KANWAR SINGH MEE\n85",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 412.0,
+  "rate_per_unit": 7.4,
+  "bill_date": "2025-10-21",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

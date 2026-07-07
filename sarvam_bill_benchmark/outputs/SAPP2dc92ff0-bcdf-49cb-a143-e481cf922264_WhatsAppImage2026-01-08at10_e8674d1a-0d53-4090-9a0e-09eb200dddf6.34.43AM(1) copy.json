@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "34513499559",
+  "total_bill_amount": 281.81,
+  "bill_amount": 281.81,
+  "arrears": 4520.83,
+  "overdue_months_count": 0,
+  "name": "ANILBHAI VINUBHAI CHAVDA",
+  "fathers_name": null,
+  "address": "MAFATIYAPARA MACHHO NAGAR VISTAR, KOTHARIYA, Village Rajkot (M Corp+OG) Taluk: RAJKOT, District: RAJKOT",
+  "sanction_load": 1.8,
+  "sanction_load_unit": "kVA",
+  "pincode": null,
+  "unit_consumed": 2757.0,
+  "rate_per_unit": 0.1,
+  "bill_date": "2025-11-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

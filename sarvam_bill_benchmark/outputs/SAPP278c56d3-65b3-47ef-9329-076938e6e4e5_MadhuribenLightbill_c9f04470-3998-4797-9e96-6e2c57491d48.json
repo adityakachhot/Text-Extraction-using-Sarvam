@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "31009230697",
+  "total_bill_amount": 2676.85,
+  "bill_amount": 2676.85,
+  "arrears": -78.46,
+  "overdue_months_count": 1,
+  "name": "MADHURIBEN PHARAT RAJGOR",
+  "fathers_name": null,
+  "address": "PN-204 SHIV ARADHNA SOCIETY B/H SEVEN SKY VILLAGE: BHUJ (M+DG) TALUKA: BHUJ DISTRICT: KACHCHH",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 185.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-26",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "100636757",
+  "total_bill_amount": 3444.75,
+  "bill_amount": 3440.0,
+  "arrears": 7.6,
+  "overdue_months_count": 0,
+  "name": "MALIK KHALIL JAHIR",
+  "fathers_name": null,
+  "address": "KARIMA PARK, MEVNAGAR, NR.HARIYALI NAGAR, NR.RADHA-KRISHNA FACTORY, DANILIMDA,AHMEDABAD-380028",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380028",
+  "unit_consumed": 357.0,
+  "rate_per_unit": 3.72,
+  "bill_date": "2026-02-21",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

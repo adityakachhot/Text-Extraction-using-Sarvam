@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "1284712767",
+  "total_bill_amount": 4152.0,
+  "bill_amount": 3818.04,
+  "arrears": 333.96,
+  "overdue_months_count": 0,
+  "name": "SRI MANOJ KUMAR",
+  "fathers_name": "SRI CHHOTE LAL",
+  "address": "HOUSE NO. 38 GADAN KHERA UNNAO UNNAO Unnao UP 209801 IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "209801",
+  "unit_consumed": 409.0,
+  "rate_per_unit": 9.33,
+  "bill_date": "2026-03-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

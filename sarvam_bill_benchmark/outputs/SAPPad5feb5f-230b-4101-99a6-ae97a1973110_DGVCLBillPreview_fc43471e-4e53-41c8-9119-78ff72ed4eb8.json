@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "14801010563",
+  "total_bill_amount": 2186.51,
+  "bill_amount": 2186.51,
+  "arrears": -28.32,
+  "overdue_months_count": 1,
+  "name": "ASHISH KISHORBHAI PATEL",
+  "fathers_name": null,
+  "address": "78 KRISHNA NAGAR SOC KOSAD TA CHORASI VILL:Kosad TAL:Chorasi DISTRICT:Surat",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 320.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

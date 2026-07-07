@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "पश्चिमांचल विद्युत वितरण निगम लिमिटेड",
+  "consumer_number": null,
+  "total_bill_amount": null,
+  "bill_amount": null,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "किशोर गिरी",
+  "fathers_name": "S/O महावीर गिरी",
+  "address": "बाडियान",
+  "sanction_load": 8.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2023-04-19",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

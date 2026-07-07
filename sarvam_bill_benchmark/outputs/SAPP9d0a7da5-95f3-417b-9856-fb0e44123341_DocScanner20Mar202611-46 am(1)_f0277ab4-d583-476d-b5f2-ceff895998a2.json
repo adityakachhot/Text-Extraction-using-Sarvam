@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "71501134663",
+  "total_bill_amount": 530.5,
+  "bill_amount": 0.0,
+  "arrears": -3.37,
+  "overdue_months_count": 0,
+  "name": "GAVARIYA VIS",
+  "fathers_name": null,
+  "address": "9925178750 Village:THARAD (M) TALUKA:THARAD DISTRICT:BANAS KANTHA ઠીકર કોડનામ : 048 / 11 KV TULASI FEE ડીટીઆર કોડ: 00",
+  "sanction_load": 0.0,
+  "sanction_load_unit": "kW",
+  "pincode": "388123",
+  "unit_consumed": 7.0,
+  "rate_per_unit": 4.0,
+  "bill_date": "2026-02-28",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

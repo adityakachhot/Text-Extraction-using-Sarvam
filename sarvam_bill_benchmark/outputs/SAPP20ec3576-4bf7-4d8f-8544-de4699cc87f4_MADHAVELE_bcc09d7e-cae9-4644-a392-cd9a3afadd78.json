@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "85301061739",
+  "total_bill_amount": -1074.52,
+  "bill_amount": -1074.52,
+  "arrears": 144.23,
+  "overdue_months_count": 1,
+  "name": "MADHAVBHAI KARSHNBHAI GOHIL",
+  "fathers_name": null,
+  "address": "N.A.D.R.MUCHADIYA HOSPITA, AT RAJULA 9904779503, VILL:Rajula (M) TAL:RAJULA, DISTRICT: AMRELI",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "360004",
+  "unit_consumed": 555.0,
+  "rate_per_unit": 1.5,
+  "bill_date": "2025-12-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

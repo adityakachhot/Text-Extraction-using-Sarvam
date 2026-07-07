@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "030590006323",
+  "total_bill_amount": null,
+  "bill_amount": null,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "Satam Parshuram Tanaji",
+  "fathers_name": null,
+  "address": "HO.NO.448; AT-GORATHAN BK, WAVOSHIPADATAL - KHALAPUR 410203\nSaatan Parshuram Tanaji\nHo.no.A48; At-Agorathan Blk., Ta. Khairapur 410203",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "410203",
+  "unit_consumed": 123.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-03-07",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

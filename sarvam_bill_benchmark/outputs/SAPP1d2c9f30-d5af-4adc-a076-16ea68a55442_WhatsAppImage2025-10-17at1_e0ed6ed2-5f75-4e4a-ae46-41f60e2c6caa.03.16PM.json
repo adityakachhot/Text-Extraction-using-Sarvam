@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "04657024132",
+  "total_bill_amount": 4646.26,
+  "bill_amount": 4646.26,
+  "arrears": 58.39,
+  "overdue_months_count": 1,
+  "name": "LAKHABHAI JETHABHAI THAPOR",
+  "fathers_name": null,
+  "address": "HO-9265936705 LAMBI SIM NR PRIMARY SCHOOL BORSAD(R) ગુજરાત વીજ કંપ. MGVCL સરદાર પટેલ વિદ્યુત ભવન, દેહાડે",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "382602",
+  "unit_consumed": 686.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-06-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

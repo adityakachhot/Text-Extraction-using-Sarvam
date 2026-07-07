@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "29427004347",
+  "total_bill_amount": 634.71,
+  "bill_amount": 634.71,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KHARADI MANJIBHAI KALAJI",
+  "fathers_name": null,
+  "address": "AT : ZINZUDI,nichli fali TA : BHILODA VILL:Jhejhudii TAL:Bhiloda DISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 112.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

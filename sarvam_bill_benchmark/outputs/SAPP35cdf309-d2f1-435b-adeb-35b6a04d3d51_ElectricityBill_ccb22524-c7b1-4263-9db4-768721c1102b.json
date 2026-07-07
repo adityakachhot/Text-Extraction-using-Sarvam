@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "9290354000",
+  "total_bill_amount": 826.0,
+  "bill_amount": 624.86,
+  "arrears": 200.89,
+  "overdue_months_count": 0,
+  "name": "DILIP KUMAR",
+  "fathers_name": "",
+  "address": "BAHRAM MATA PDGANESHPUR BARABANKI UP IND",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226171",
+  "unit_consumed": 139.0,
+  "rate_per_unit": 5.94,
+  "bill_date": "2025-12-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

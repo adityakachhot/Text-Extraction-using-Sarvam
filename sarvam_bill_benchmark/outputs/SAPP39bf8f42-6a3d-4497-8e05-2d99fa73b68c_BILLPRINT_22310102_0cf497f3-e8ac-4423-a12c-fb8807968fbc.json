@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "जयपुर विद्युत वितरण निगम लिमिटेड",
+  "consumer_number": "210503025913",
+  "total_bill_amount": 10034.0,
+  "bill_amount": 10034.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BHAGIRATH MAL YADAV KANARAM YADAV ACHROL",
+  "fathers_name": null,
+  "address": "NA NA ACHROL",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 183.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-03-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

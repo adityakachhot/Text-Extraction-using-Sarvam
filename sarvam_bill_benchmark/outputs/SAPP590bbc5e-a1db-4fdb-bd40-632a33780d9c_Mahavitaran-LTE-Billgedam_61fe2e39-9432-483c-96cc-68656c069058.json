@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "410016264842",
+  "total_bill_amount": 3530.0,
+  "bill_amount": 3500.0,
+  "arrears": -7.17,
+  "overdue_months_count": 0,
+  "name": "SMT DAYAWATI DEVRAO GEDAM",
+  "fathers_name": null,
+  "address": "SAVITRIBAI FULE NAGPUR 440027",
+  "sanction_load": 0.6,
+  "sanction_load_unit": "KW",
+  "pincode": "440027",
+  "unit_consumed": 281.0,
+  "rate_per_unit": 12.5,
+  "bill_date": "2026-02-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

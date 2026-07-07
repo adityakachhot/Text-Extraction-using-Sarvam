@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "590017370776",
+  "total_bill_amount": 17960.0,
+  "bill_amount": 17960.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "DEEPAK MAHADEV AMBURE",
+  "fathers_name": null,
+  "address": "CITYSUR. NO. 3365 D R AMBURE COMPLEX MAULI CHAUK O SMANABAD DHARASHIV DHARASHIV 413501",
+  "sanction_load": 1.49,
+  "sanction_load_unit": "KW",
+  "pincode": "413501",
+  "unit_consumed": 1311.0,
+  "rate_per_unit": 52.0,
+  "bill_date": "2025-09-08",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

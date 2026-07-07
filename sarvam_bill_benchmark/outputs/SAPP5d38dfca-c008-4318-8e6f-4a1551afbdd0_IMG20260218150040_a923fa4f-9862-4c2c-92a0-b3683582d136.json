@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "BSES",
+  "consumer_number": "153828026",
+  "total_bill_amount": 4572.56,
+  "bill_amount": 4572.56,
+  "arrears": 4572.56,
+  "overdue_months_count": 0,
+  "name": "Ms. SANDHYA MEHTA",
+  "fathers_name": "RITESH MEHTA",
+  "address": "W/O RITESH MEHTA 20-D PKT A DDA SFS\nSUKHDEV VIHAR NEW DELHI 110076",
+  "sanction_load": 6.0,
+  "sanction_load_unit": "kW",
+  "pincode": "110076",
+  "unit_consumed": 634.0,
+  "rate_per_unit": 7.0,
+  "bill_date": "2026-02-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

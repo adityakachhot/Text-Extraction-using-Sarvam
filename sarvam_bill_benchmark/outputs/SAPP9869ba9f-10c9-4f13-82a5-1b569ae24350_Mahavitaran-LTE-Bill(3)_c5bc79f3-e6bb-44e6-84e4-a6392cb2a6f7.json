@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170781399801",
+  "total_bill_amount": 8980.0,
+  "bill_amount": 8980.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Mohan Dadasaheb Hajare",
+  "fathers_name": null,
+  "address": "Gat No.730, Naidu Farm, HAVELI PUNE Manjari Kh. 412307",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "412307",
+  "unit_consumed": 211.0,
+  "rate_per_unit": 4.28,
+  "bill_date": "2025-10-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

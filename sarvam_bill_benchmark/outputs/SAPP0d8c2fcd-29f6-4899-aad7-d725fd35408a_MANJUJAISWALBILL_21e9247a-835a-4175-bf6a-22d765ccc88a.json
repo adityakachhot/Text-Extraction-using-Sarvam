@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "1548690000",
+  "total_bill_amount": 915.0,
+  "bill_amount": 900.13,
+  "arrears": 14.73,
+  "overdue_months_count": 0,
+  "name": "Mr. SMT MANJU JAISWAL",
+  "fathers_name": "W/O RAMESH KUMAR JAISWAL",
+  "address": "W/O RAMESH KUMAR JAISWAL,PLOT NO 1 MOHD PUR KHATRI LKO LUCKNOW UP IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226001",
+  "unit_consumed": 116.73,
+  "rate_per_unit": 7.67,
+  "bill_date": "2025-12-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

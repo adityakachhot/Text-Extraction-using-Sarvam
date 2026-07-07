@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Mahavitran",
+  "consumer_number": "40403094892198302032026000007820010000180226007",
+  "total_bill_amount": 7920.0,
+  "bill_amount": 7920.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Avinash Shantaram Kirave",
+  "fathers_name": null,
+  "address": "Flat No 201, Datta Krupa Bldg, S V Nagar, Mogalwadi, Khalapur (M.C)",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "404030",
+  "unit_consumed": 113.0,
+  "rate_per_unit": 69.67,
+  "bill_date": "2026-02-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

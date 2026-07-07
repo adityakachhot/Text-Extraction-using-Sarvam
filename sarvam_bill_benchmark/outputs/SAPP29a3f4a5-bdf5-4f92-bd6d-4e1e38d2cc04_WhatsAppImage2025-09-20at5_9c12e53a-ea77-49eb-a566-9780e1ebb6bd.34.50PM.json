@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "WESTERN GUJARAT VIES COMPANY LIMITED",
+  "consumer_number": null,
+  "total_bill_amount": null,
+  "bill_amount": null,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": null,
+  "fathers_name": null,
+  "address": null,
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": null,
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

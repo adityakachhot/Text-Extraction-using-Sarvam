@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "1315148",
+  "total_bill_amount": 1383.94,
+  "bill_amount": 1380.0,
+  "arrears": 2330.0,
+  "overdue_months_count": 1,
+  "name": "SONI DHARMENDRA VINUBHAI",
+  "fathers_name": null,
+  "address": "53/19,MOHITA PARK SOCIETY,ISANPUR,AHMEDABAD.",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380150",
+  "unit_consumed": 155.0,
+  "rate_per_unit": 8.93,
+  "bill_date": "2026-02-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

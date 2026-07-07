@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "39201152051",
+  "total_bill_amount": 2387.33,
+  "bill_amount": 2387.33,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NARENDRA DHARSHIBHAI VEGHAD",
+  "fathers_name": null,
+  "address": "NEAR KOTAK SOSYCITY, NAVAVAS P 90G MADHAPAR VILLAGE:Bhuj (M+OG) TALUKA:BHUJ DISTRICT:KACHCHH FEEDER CD 82 DTX",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 346.0,
+  "rate_per_unit": 6.898,
+  "bill_date": "2025-12-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

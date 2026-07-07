@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "23102108008",
+  "total_bill_amount": 1580.65,
+  "bill_amount": 1580.65,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "RASHIKLAL KESHAVALAL",
+  "fathers_name": "NAYAK",
+  "address": "VILL:Himatnagar (M)\nTAL:Himatnagar\nDISTRICT:Sabar Kantha",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 236.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

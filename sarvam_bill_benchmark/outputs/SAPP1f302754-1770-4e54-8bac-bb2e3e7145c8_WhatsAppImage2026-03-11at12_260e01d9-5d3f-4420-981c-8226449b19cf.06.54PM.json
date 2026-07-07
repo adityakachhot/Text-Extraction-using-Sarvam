@@ -1,0 +1,21 @@
+{
+  "document_type_match": false,
+  "discom": "Mahadhiscom",
+  "consumer_number": "030800000943",
+  "total_bill_amount": 1310.0,
+  "bill_amount": 1310.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "SHRI RAMCHANDRA GANA KARNUK",
+  "fathers_name": null,
+  "address": "SPECTAL KHALARPUR; SARSAN; KHOPOLI (R); [SECTAL KHALAPUR, DIST RAGIAD, KHOPOLI 410203",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "KW",
+  "pincode": "410203",
+  "unit_consumed": 133.0,
+  "rate_per_unit": 9.85,
+  "bill_date": "2026-02-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

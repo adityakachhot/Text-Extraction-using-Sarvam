@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "550601024497",
+  "total_bill_amount": 8090.0,
+  "bill_amount": 8090.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Maroti Govinda Doiphode",
+  "fathers_name": null,
+  "address": "PROP.NO.219 SR.NO.160 B PLOT NO.170 VENKATESH NAG UMRI NANDED Peth Umri (M) CI) 431807",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "431807",
+  "unit_consumed": 191.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2025-09-12",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

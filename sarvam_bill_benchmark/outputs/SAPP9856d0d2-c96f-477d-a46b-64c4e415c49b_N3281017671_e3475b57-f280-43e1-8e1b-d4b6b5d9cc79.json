@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Madhya Pradesh Paschim Kshetra Vidyut Vitran Company Ltd.",
+  "consumer_number": "3281017671",
+  "total_bill_amount": 0.0,
+  "bill_amount": 75.0,
+  "arrears": -5.0,
+  "overdue_months_count": 0,
+  "name": "SHRI VISHNU GOYAL",
+  "fathers_name": "S/O BHAWARLAL GO..",
+  "address": "MENDKI WATERWORKS WARD NO.11 MAIN ROAD, DEWAS, R1-6410 DATE 28-08-2017, DEWAS",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "KW",
+  "pincode": "452001",
+  "unit_consumed": 31.8,
+  "rate_per_unit": 141.51,
+  "bill_date": "2026-01-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "en-IN"
+}

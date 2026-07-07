@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "550011814701",
+  "total_bill_amount": 16960.0,
+  "bill_amount": 16960.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KAMALBAI DEVIDASRAO LOHAR",
+  "fathers_name": null,
+  "address": "PLOT NO 17 JINDAMNAGAR NANDED NANDED Gopalchavdi 431603",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": "431603",
+  "unit_consumed": 306.0,
+  "rate_per_unit": 5.5,
+  "bill_date": "2026-01-26",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

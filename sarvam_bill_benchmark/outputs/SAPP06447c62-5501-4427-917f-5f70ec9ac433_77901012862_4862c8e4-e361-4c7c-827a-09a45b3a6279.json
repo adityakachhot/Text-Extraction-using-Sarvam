@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "UGVCL",
+  "consumer_number": "77901012862",
+  "total_bill_amount": 5151.98,
+  "bill_amount": 5163.99,
+  "arrears": -12.01,
+  "overdue_months_count": 1,
+  "name": "LAXMANBHAI CHANDUBHAI",
+  "fathers_name": null,
+  "address": "VAGHELA BHANGI VAS GHUMA TA.DASCROI VILL:Ahmadabad (M Corp.+OG) (Part) TAL:Ahmadabad City DISTRICT:Ahmadabad",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "384001",
+  "unit_consumed": 679.0,
+  "rate_per_unit": 7.81,
+  "bill_date": "2026-01-26",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

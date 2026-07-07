@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": null,
+  "total_bill_amount": 8407.0,
+  "bill_amount": 8407.0,
+  "arrears": 0.0,
+  "overdue_months_count": null,
+  "name": "KUSUM MISHRA",
+  "fathers_name": null,
+  "address": "92 VILLAGE BHADASADA, POST GOLA BAZAR, GORAKHPUR, 273408",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "KW",
+  "pincode": "273408",
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-29",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

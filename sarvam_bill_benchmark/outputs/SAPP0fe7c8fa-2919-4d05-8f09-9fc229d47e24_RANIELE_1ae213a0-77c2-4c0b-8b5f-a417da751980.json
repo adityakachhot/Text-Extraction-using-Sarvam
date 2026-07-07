@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "5402873474",
+  "total_bill_amount": 1838.0,
+  "bill_amount": 1520.01,
+  "arrears": 317.52,
+  "overdue_months_count": null,
+  "name": "SMT. RANI DEVI",
+  "fathers_name": "W/O S",
+  "address": "D-35/262, JANGAMBARI Varanasi UP 221001 IND",
+  "sanction_load": 9.0,
+  "sanction_load_unit": "kW",
+  "pincode": "221001",
+  "unit_consumed": 92.52,
+  "rate_per_unit": 6.85,
+  "bill_date": "2026-01-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

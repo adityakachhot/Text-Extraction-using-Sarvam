@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "2001307",
+  "total_bill_amount": 3020.0,
+  "bill_amount": 3020.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": null,
+  "fathers_name": null,
+  "address": "6.. S.NO-4021. 17/P., HARIOM PARK SOCIETY, OPP. SUKHRAM DARBAR, KUBER NAGAR, 382340",
+  "sanction_load": 0.0,
+  "sanction_load_unit": "KW",
+  "pincode": "382340",
+  "unit_consumed": null,
+  "rate_per_unit": null,
+  "bill_date": "2025-11-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

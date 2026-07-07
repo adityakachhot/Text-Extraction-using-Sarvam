@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "130114039562",
+  "total_bill_amount": 3824.21,
+  "bill_amount": 3824.21,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Mr. Kuldeep Singh Amardeep Singh Chouhan",
+  "fathers_name": "Man Singh Chouhan",
+  "address": "E-8 Kota Bwari Behind Rajkamal Hotel Bhuwana Udaipur",
+  "sanction_load": 7.0,
+  "sanction_load_unit": "KW",
+  "pincode": "321801",
+  "unit_consumed": 407.0,
+  "rate_per_unit": 9.41,
+  "bill_date": "2025-11-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "38914110524",
+  "total_bill_amount": 1332.21,
+  "bill_amount": 1332.21,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "HALAI VIMLABEN MANJI",
+  "fathers_name": null,
+  "address": "OPP.SHANIMANDIR MUNDRA RD, VILL:Bhuj (M+OG) TAL:BHUJ, DISTRICT: KACHCHH",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "360004",
+  "unit_consumed": 204.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

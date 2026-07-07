@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "जयपुर विद्युत वितरण निगम लिमिटेड",
+  "consumer_number": "16500171",
+  "total_bill_amount": 4112.22,
+  "bill_amount": 4112.22,
+  "arrears": -4.0,
+  "overdue_months_count": 0,
+  "name": "GOYAL FILING STATION",
+  "fathers_name": null,
+  "address": "C/O JASHWANT GOYAL B\nBANSKHEDI LODHAN",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 362.0,
+  "rate_per_unit": 11.36,
+  "bill_date": "2025-09-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

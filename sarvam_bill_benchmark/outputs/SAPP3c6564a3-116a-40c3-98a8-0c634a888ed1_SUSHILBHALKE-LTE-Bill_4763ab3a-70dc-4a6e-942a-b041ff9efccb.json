@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "156000001759",
+  "total_bill_amount": 1190.0,
+  "bill_amount": 1190.0,
+  "arrears": 129.17,
+  "overdue_months_count": 0,
+  "name": "SUSHIL BHAUSAHEB BHALKE",
+  "fathers_name": null,
+  "address": "587 KOUTHE(BK) 999999",
+  "sanction_load": 0.34,
+  "sanction_load_unit": "KW",
+  "pincode": "423603",
+  "unit_consumed": 116.0,
+  "rate_per_unit": 626.06,
+  "bill_date": "2025-12-12",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

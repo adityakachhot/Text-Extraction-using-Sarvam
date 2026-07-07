@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170655778066",
+  "total_bill_amount": 830.0,
+  "bill_amount": 830.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "Pravin Gangadhar Dhadge",
+  "fathers_name": null,
+  "address": "SR NO 5/6 A MANGAL MURTI JAYMALA NAGAR LANE NO 6 PUNE CITY PUNE (M Corp.) 411027",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "411027",
+  "unit_consumed": 99.0,
+  "rate_per_unit": 8.38,
+  "bill_date": "2025-11-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

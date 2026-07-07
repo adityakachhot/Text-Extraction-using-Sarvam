@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "3271527",
+  "total_bill_amount": 1080.0,
+  "bill_amount": 1080.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "PANCHAL ANIL MAFATLAL",
+  "fathers_name": null,
+  "address": "03,NEEL BUNGLOWS,B/H-VISHWAKARMA MANDIR,NR.NIRMAN TENAMENT,NR.GOTA RLY.CROSSING,CHANDLODIA,AHMEDABAD.382461",
+  "sanction_load": 3.9,
+  "sanction_load_unit": "kW",
+  "pincode": "382461",
+  "unit_consumed": 121.0,
+  "rate_per_unit": 8.93,
+  "bill_date": "2026-01-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

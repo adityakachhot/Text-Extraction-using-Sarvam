@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "મધ્ય ગુજરાત વીજ કંપની લીમીટેડ",
+  "consumer_number": null,
+  "total_bill_amount": 658.0,
+  "bill_amount": 658.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": null,
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 100.0,
+  "rate_per_unit": 5.25,
+  "bill_date": "2025-11-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

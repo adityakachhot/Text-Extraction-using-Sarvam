@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "NZ4079310238",
+  "total_bill_amount": 1979.7,
+  "bill_amount": 1979.7,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NAVINBHAI DALABHAI SAGATHIA",
+  "fathers_name": null,
+  "address": "263/2, ZKHURA OPP. NAVA SHARDA MANDIR BUS STAND AHMEDABAD",
+  "sanction_load": 4101.0,
+  "sanction_load_unit": "W",
+  "pincode": "380001",
+  "unit_consumed": 230.0,
+  "rate_per_unit": 8.68,
+  "bill_date": "2024-12-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

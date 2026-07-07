@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "06918014889",
+  "total_bill_amount": 1200.51,
+  "bill_amount": 1200.51,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KARENA KANCHANBEN LAKHAMANBHAI",
+  "fathers_name": null,
+  "address": "21 BHUMI RESIDENCY, NANI CHOVISI, TA-NAVSARI , DIST-NAVSARI M.8155998838",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 182.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-14",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

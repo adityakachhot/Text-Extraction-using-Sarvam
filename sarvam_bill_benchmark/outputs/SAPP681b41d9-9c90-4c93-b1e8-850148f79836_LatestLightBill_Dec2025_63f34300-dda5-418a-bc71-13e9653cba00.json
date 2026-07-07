@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "02415058076",
+  "total_bill_amount": 3290.28,
+  "bill_amount": 3290.28,
+  "arrears": 6019.56,
+  "overdue_months_count": 1,
+  "name": "RAMABHAI RAYJIBHAI MAKWANA",
+  "fathers_name": null,
+  "address": "KOWALI, LS NO:-657/2-KOKHAR TALAVLI, OPP. GOKULDHAM RESI.-2, VILLAGE:KOYLI, TALUKA:VADODARA, DISTRICT:VADODARA, 023 / 11KV SHERKHI, કીર કોડ/નામ : SHKRGP, ડીટીઆર કોડ: 02415/0580RMB નં: 4137",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "389230",
+  "unit_consumed": 487.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

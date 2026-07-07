@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "3067110",
+  "total_bill_amount": 3694.33,
+  "bill_amount": 3690.0,
+  "arrears": 9.95,
+  "overdue_months_count": 0,
+  "name": "ASHVINBHAI MAHESHBHAI RATHOD",
+  "fathers_name": null,
+  "address": "B-65,ISHWARKAKA NAGAR,GHATLODIA,AHMEDABAD-382481",
+  "sanction_load": 0.96,
+  "sanction_load_unit": "kW",
+  "pincode": "382481",
+  "unit_consumed": 405.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

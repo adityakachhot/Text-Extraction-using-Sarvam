@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCL",
+  "consumer_number": "63409013121",
+  "total_bill_amount": 3380.88,
+  "bill_amount": 2069.52,
+  "arrears": 1311.36,
+  "overdue_months_count": 1,
+  "name": "LAXMIBEN HARSUKHBHAI GUNGALA NR KISHAN MILE RAIYARAJ DUKAN 8490969497",
+  "fathers_name": null,
+  "address": "GIVON (IND) VILLAGE:Gondal (M+OG) TALUKA:GONDAL DISTRICT:RAJKOT FEEDER CD 8 8",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "kW",
+  "pincode": "360377",
+  "unit_consumed": 293.0,
+  "rate_per_unit": 6.72,
+  "bill_date": "2026-02-06",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

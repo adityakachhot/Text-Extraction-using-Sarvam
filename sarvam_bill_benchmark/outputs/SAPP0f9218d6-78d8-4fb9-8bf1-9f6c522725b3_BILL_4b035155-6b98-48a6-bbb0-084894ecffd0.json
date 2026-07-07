@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "6942551647",
+  "total_bill_amount": 3696.0,
+  "bill_amount": 3665.54,
+  "arrears": 30.09,
+  "overdue_months_count": 0,
+  "name": "SAURABH PRATAP SINGH",
+  "fathers_name": "NARENDRA SINGH",
+  "address": "0 SHAHPUR TIGRI SHAHPUR TIGRI\nMORADABAD MORADABAD UP\n244001 IND",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "kW",
+  "pincode": "244001",
+  "unit_consumed": 464.58,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

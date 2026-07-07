@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "1954384888",
+  "total_bill_amount": 6401.0,
+  "bill_amount": 3084.08,
+  "arrears": 3295.55,
+  "overdue_months_count": 0,
+  "name": "SWARNA SINGH",
+  "fathers_name": "LAKHPAT SINGH",
+  "address": "Bhu no 240A Kh no 29 Bhaisora Gomti Nagar Vistar 226010 LUCKNOW UP",
+  "sanction_load": 5.0,
+  "sanction_load_unit": "kW",
+  "pincode": "226010",
+  "unit_consumed": 1499.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-01-13",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

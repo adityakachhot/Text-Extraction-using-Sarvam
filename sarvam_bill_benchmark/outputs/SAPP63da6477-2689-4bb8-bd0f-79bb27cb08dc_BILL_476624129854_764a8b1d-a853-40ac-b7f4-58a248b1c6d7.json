@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": "4761242000",
+  "total_bill_amount": 1224.0,
+  "bill_amount": 1211.76,
+  "arrears": 11.98,
+  "overdue_months_count": 0,
+  "name": "NEERAJ TIWARI",
+  "fathers_name": "RAMESHWAR TIWARI",
+  "address": "282/4, AV COLONY UNNAOUNNAO UNNAO UP IND",
+  "sanction_load": 3.0,
+  "sanction_load_unit": "kW",
+  "pincode": "000000",
+  "unit_consumed": 172.0,
+  "rate_per_unit": 7.0,
+  "bill_date": "2026-03-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

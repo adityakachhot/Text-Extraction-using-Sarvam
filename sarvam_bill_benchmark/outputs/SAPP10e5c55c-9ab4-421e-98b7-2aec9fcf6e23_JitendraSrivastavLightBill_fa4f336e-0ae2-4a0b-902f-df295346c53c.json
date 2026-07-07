@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "AZ24AZ24077413329",
+  "total_bill_amount": 7423.84,
+  "bill_amount": 7423.84,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "JITENDRA MEVAWALA SHRIVASTAV",
+  "fathers_name": null,
+  "address": "158 S NO 15 A HARIDARSHAN PARK OPP TIRTH BHUMI SOC GITA PROCESS RD ISANPUR AHMEDABAD 382443",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kW",
+  "pincode": "382443",
+  "unit_consumed": 767.0,
+  "rate_per_unit": 9.68,
+  "bill_date": "2025-10-27",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

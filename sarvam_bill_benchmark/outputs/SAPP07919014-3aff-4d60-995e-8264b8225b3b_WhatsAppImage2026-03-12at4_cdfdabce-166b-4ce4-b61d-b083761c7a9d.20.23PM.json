@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "14311226063",
+  "total_bill_amount": 445.0,
+  "bill_amount": 445.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "PARMAR RAMILABEN MAGANBHAI",
+  "fathers_name": null,
+  "address": "C/49 OMKAR SHIKHAR TARSALI VILLAGE:VIDODARA (M CORP+OG) TALUKA:VIDODARA DISTRICT:VIDODARA",
+  "sanction_load": 1.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "390007",
+  "unit_consumed": 285.0,
+  "rate_per_unit": 1.56,
+  "bill_date": "2026-01-18",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

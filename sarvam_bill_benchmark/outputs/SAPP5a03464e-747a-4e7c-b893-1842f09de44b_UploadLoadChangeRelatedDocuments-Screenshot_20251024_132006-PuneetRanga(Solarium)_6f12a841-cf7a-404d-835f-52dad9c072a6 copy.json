@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "बीकानेर इलेक्ट्रिसिटी सप्लाई लिमिटेड",
+  "consumer_number": "RPSanjivGoenka",
+  "total_bill_amount": 3936.44,
+  "bill_amount": 3936.44,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Vikram Yogi",
+  "fathers_name": "S/O Kalu Ram",
+  "address": "S/O Kalu Ram Plot No.249, Vardhman Nagar, Bikaner 334004, Gumna Peer Road, Bikaner",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "334004",
+  "unit_consumed": 453.0,
+  "rate_per_unit": 8.69,
+  "bill_date": "2025-10-05",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "bn-IN"
+}

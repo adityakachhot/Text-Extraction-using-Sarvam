@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170013852084",
+  "total_bill_amount": 580.0,
+  "bill_amount": 580.0,
+  "arrears": null,
+  "overdue_months_count": null,
+  "name": "ANIKET ASHOKKUMAR MORE",
+  "fathers_name": null,
+  "address": "SR.NO.14/2 MIL NO.1414 UTTAMNAGAR BEH DNYANESHWAR HOTEL 411023",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": "411023",
+  "unit_consumed": 4614.0,
+  "rate_per_unit": 0.1256,
+  "bill_date": "2026-01-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

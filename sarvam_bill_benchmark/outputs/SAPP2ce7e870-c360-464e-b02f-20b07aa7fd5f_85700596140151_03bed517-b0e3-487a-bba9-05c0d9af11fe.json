@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "003S GC042907",
+  "total_bill_amount": 13.0,
+  "bill_amount": 13.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "DIALIPKUMAR RAMESHBHAI LIMBACHIA",
+  "fathers_name": "",
+  "address": "KARMVIR SUNDARVAN-3\nNO.9723386854\nVILLAGE:MANJIPURA (PART)\nTALUKA:NADIALI\nDISTRICT:KHEDA",
+  "sanction_load": 5589.0,
+  "sanction_load_unit": "kVA",
+  "pincode": "390007",
+  "unit_consumed": 0.0,
+  "rate_per_unit": 0.0,
+  "bill_date": "2026-01-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

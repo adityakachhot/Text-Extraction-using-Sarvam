@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MADHYANCHAL VIDYUT VITRAN NIGAM LIMITED",
+  "consumer_number": null,
+  "total_bill_amount": 5445.0,
+  "bill_amount": 5377.27,
+  "arrears": 68.05,
+  "overdue_months_count": null,
+  "name": null,
+  "fathers_name": null,
+  "address": null,
+  "sanction_load": 1600.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 796.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-10-16",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

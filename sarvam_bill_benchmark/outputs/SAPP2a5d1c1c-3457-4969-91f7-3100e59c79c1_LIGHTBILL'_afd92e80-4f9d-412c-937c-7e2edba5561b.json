@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "12701025672",
+  "total_bill_amount": 8167.76,
+  "bill_amount": 8167.76,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KIRANBHAI BABANBHAI BICHAVE",
+  "fathers_name": null,
+  "address": "P-113 RAM NAGAR UDHNA 9726003288 Village : Surat (M Corp+OG) (Part) Taluka : Surat City District : Surat",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 1016.0,
+  "rate_per_unit": 15.0,
+  "bill_date": "2025-08-22",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

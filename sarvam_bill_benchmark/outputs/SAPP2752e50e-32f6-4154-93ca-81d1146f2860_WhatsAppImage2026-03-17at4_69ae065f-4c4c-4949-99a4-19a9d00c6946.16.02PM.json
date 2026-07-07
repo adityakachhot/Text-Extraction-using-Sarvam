@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "22120029",
+  "total_bill_amount": 2062.5,
+  "bill_amount": 2062.5,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "Manoj Kumar S O Jagd",
+  "fathers_name": null,
+  "address": "SHARMA RATANGARH ROA",
+  "sanction_load": 8.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 325.0,
+  "rate_per_unit": 6.35,
+  "bill_date": "2026-03-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

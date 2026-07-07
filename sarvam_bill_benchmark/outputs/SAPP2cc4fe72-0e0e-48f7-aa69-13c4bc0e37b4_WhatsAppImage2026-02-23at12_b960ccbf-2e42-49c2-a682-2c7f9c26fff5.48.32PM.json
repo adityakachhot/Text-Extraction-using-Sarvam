@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "15924017265",
+  "total_bill_amount": 2429.52,
+  "bill_amount": 1040.39,
+  "arrears": 1389.13,
+  "overdue_months_count": 1,
+  "name": "Gohil Dolubhai Bhanabhai",
+  "fathers_name": null,
+  "address": "Urja Sadan Nana Varachha Road, Kapodara, SURAT-395 006",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 182.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-12-25",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

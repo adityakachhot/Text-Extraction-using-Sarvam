@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Ajmer Vidyut Vitran Nigam Limited",
+  "consumer_number": "24010196",
+  "total_bill_amount": 663.5,
+  "bill_amount": 663.5,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "REEIKA SHARMA",
+  "fathers_name": "W/O GAURAV SHARMA",
+  "address": "W/O GAURAV SHARMA 7 RAM DEVI JI",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": null,
+  "unit_consumed": 121.0,
+  "rate_per_unit": 5.48,
+  "bill_date": "2026-02-11",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

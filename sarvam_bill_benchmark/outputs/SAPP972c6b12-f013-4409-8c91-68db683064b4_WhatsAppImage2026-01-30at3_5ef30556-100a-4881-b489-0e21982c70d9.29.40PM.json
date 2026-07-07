@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": null,
+  "consumer_number": "17170757",
+  "total_bill_amount": 1906.11,
+  "bill_amount": 1906.11,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "BLENDRA",
+  "fathers_name": null,
+  "address": "SIO RAM SINGH\nDHOBI SHATTA BAG WAL",
+  "sanction_load": 8.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 68.0,
+  "rate_per_unit": 27.2,
+  "bill_date": "2008-01-01",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}

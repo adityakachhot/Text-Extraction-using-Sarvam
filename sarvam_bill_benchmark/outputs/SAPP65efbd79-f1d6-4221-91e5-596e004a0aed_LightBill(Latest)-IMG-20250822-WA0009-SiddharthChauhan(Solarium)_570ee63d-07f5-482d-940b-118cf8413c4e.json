@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "માધ્ય ગુજરાત વીજ કંપની લીમીટેડ",
+  "consumer_number": "16338001757",
+  "total_bill_amount": 0.0,
+  "bill_amount": 0.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "JITENDRA RAMDAS PATIL",
+  "fathers_name": null,
+  "address": "VILLAGE:VADODARA (M CORP+OG), TALUKA:VADODARA, DISTRICT:VADODARA",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": null,
+  "unit_consumed": 0.0,
+  "rate_per_unit": null,
+  "bill_date": null,
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

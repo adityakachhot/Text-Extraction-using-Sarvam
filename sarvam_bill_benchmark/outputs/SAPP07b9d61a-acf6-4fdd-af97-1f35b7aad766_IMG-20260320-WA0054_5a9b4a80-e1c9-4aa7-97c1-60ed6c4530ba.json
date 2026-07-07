@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "560644",
+  "total_bill_amount": 34320.0,
+  "bill_amount": 17650.0,
+  "arrears": 7200.0,
+  "overdue_months_count": 0,
+  "name": "UMANGSINH JASHVANTSINH THAKOR",
+  "fathers_name": null,
+  "address": "190/1 Bharat-Khand Cotton Mills Compd AMDUPURA ASARWA RD AHMEDABAD",
+  "sanction_load": 12.0,
+  "sanction_load_unit": "kW",
+  "pincode": "380009",
+  "unit_consumed": 1744.0,
+  "rate_per_unit": null,
+  "bill_date": "2026-02-10",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

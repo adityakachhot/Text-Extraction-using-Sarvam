@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "0201020196903750",
+  "total_bill_amount": 4700.0,
+  "bill_amount": 4700.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KANUDHAL JETHAL PANCHAL",
+  "fathers_name": null,
+  "address": "37, NEW KAMDAR NAGAR C H SOC LTD, OPP INDIAN OXYGEN AMRAIVADI AHMEDABAD-8",
+  "sanction_load": 0.6,
+  "sanction_load_unit": "kW",
+  "pincode": "380001",
+  "unit_consumed": 509.0,
+  "rate_per_unit": 9.24,
+  "bill_date": "2025-07-03",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

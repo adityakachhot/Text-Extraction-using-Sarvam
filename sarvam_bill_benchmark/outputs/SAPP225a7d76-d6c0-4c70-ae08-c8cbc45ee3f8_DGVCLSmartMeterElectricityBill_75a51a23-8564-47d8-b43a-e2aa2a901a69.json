@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "12902095791",
+  "total_bill_amount": 836.4,
+  "bill_amount": 836.4,
+  "arrears": 1359.7,
+  "overdue_months_count": 1,
+  "name": "JAYESH BHAGVANJIBHAI JIVANI",
+  "fathers_name": null,
+  "address": "PL.39, SHREE HARI RESIDENSI, KHOLWAD,TA,KAMREJ,DI.SURAT\nKholvad\nKamrej\nSurat\nCensus Code : 01689700",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 124.0,
+  "rate_per_unit": 6.704,
+  "bill_date": "2026-01-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "PGVCI",
+  "consumer_number": "34508124631",
+  "total_bill_amount": 2674.84,
+  "bill_amount": 2674.84,
+  "arrears": -15.51,
+  "overdue_months_count": 1,
+  "name": "RATHOD BIPINBHAI GOVINDBHAI",
+  "fathers_name": null,
+  "address": "PUNITNAGAR CO OF HEA SOC\nST NO.13 NR PRIMARY SC VA\nRAJKOT (M CORP+OG)\nTALUKA:RAJKOT\nDISTRICT:RAJKOT",
+  "sanction_load": 0.5,
+  "sanction_load_unit": "kVA",
+  "pincode": null,
+  "unit_consumed": 394.0,
+  "rate_per_unit": 6.76,
+  "bill_date": "2025-06-02",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

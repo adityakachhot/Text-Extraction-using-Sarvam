@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Torrent Power",
+  "consumer_number": "2179867",
+  "total_bill_amount": 1490.0,
+  "bill_amount": 1490.0,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "NANDKUMAR OMPRAKASH TIWARI.",
+  "fathers_name": null,
+  "address": "705, MAHAVIR NAGAR BACHUBHAI NO KUVO NR JANIYA PIR NO TEKRO VATVA AHMEDABAD",
+  "sanction_load": 0.42,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 165.0,
+  "rate_per_unit": 8.99,
+  "bill_date": "2026-02-09",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

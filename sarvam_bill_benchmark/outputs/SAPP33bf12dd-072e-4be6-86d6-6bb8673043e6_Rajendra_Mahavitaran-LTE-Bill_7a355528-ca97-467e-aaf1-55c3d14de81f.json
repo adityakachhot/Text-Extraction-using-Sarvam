@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MSEDCL",
+  "consumer_number": "170147242452",
+  "total_bill_amount": 440.0,
+  "bill_amount": 440.0,
+  "arrears": -1.99,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": "SNO 1/1 PLNO 8 LAXMINAGAR NIGADIGAONTHAN PRADHIKARAN 411044",
+  "sanction_load": 2.0,
+  "sanction_load_unit": "KW",
+  "pincode": "411044",
+  "unit_consumed": 41.0,
+  "rate_per_unit": 4.28,
+  "bill_date": "2025-09-15",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "mr-IN"
+}

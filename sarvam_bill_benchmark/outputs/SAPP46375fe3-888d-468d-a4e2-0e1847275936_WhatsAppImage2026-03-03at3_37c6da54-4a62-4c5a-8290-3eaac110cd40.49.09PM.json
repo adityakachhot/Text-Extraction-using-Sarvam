@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "DGVCL",
+  "consumer_number": "17920048770",
+  "total_bill_amount": 3204.11,
+  "bill_amount": 3204.11,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": null,
+  "fathers_name": null,
+  "address": "energy sadan, small vatra road, kapodra, surat - 395006",
+  "sanction_load": null,
+  "sanction_load_unit": null,
+  "pincode": "395006",
+  "unit_consumed": 450.0,
+  "rate_per_unit": 15.0,
+  "bill_date": "2025-12-21",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "MGVCL",
+  "consumer_number": "021011842655",
+  "total_bill_amount": 1695.04,
+  "bill_amount": 1695.04,
+  "arrears": 0.0,
+  "overdue_months_count": 0,
+  "name": "KAPIL RATILAL SHRIMALI",
+  "fathers_name": null,
+  "address": "BB-401 SHREE NANDNAGAR, VILLAGE:VADODARA (M CORP+OG), TALUKA:VADODARA, DISTRICT:VADODARA",
+  "sanction_load": 1.5,
+  "sanction_load_unit": "kVA",
+  "pincode": "390007",
+  "unit_consumed": 251.0,
+  "rate_per_unit": 6.75,
+  "bill_date": "2026-01-23",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "gu-IN"
+}

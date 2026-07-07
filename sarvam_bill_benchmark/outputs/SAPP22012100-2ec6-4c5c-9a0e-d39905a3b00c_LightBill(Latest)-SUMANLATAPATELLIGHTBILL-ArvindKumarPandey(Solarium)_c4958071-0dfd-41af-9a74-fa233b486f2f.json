@@ -1,0 +1,21 @@
+{
+  "document_type_match": true,
+  "discom": "Jodhpur Vidyut Vitran Nigam Limited",
+  "consumer_number": "1351956000",
+  "total_bill_amount": 4699.0,
+  "bill_amount": 4649.27,
+  "arrears": 49.28,
+  "overdue_months_count": 0,
+  "name": "Ms. SUMAN LATA PATEL",
+  "fathers_name": "W/O. SHASHIKANT PATEL",
+  "address": "RAJIV NAGAR MAHARAJGANJ RAJIV\nNAGAR MAHARAJGANJ\nMAHRAJGANJ UP IND",
+  "sanction_load": 4.0,
+  "sanction_load_unit": "kW",
+  "pincode": null,
+  "unit_consumed": 663.0,
+  "rate_per_unit": null,
+  "bill_date": "2025-09-12",
+  "is_combined_bill": false,
+  "combined_months_count": 1,
+  "detected_language": "hi-IN"
+}
