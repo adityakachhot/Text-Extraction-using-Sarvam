@@ -34,5 +34,3 @@ sarvam_bill_benchmark/bills/
 sarvam_bill_benchmark/outputs/
 sarvam_bill_benchmark/tests/
 
-# Excel output sheets
-sarvam_bill_benchmark/test.xlsx
